@@ -1,0 +1,4076 @@
+[
+ {
+   "name": "1",
+   "value": "End poverty in all its forms everywhere",
+   "type": "Goal",
+   "parent": "",
+   "isOfficial": ""
+ },
+ {
+   "name": "2",
+   "value": "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+   "type": "Goal",
+   "parent": "",
+   "isOfficial": ""
+ },
+ {
+   "name": "3",
+   "value": "Ensure healthy lives and promote well-being for all at all ages",
+   "type": "Goal",
+   "parent": "",
+   "isOfficial": ""
+ },
+ {
+   "name": "4",
+   "value": "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
+   "type": "Goal",
+   "parent": "",
+   "isOfficial": ""
+ },
+ {
+   "name": "5",
+   "value": "Achieve gender equality and empower all women and girls",
+   "type": "Goal",
+   "parent": "",
+   "isOfficial": ""
+ },
+ {
+   "name": "6",
+   "value": "Ensure availability and sustainable management of water and sanitation for all",
+   "type": "Goal",
+   "parent": "",
+   "isOfficial": ""
+ },
+ {
+   "name": "7",
+   "value": "Ensure access to affordable, reliable, sustainable and modern energy for all",
+   "type": "Goal",
+   "parent": "",
+   "isOfficial": ""
+ },
+ {
+   "name": "8",
+   "value": "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+   "type": "Goal",
+   "parent": "",
+   "isOfficial": ""
+ },
+ {
+   "name": "9",
+   "value": "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
+   "type": "Goal",
+   "parent": "",
+   "isOfficial": ""
+ },
+ {
+   "name": "10",
+   "value": "Reduce inequality within and among countries",
+   "type": "Goal",
+   "parent": "",
+   "isOfficial": ""
+ },
+ {
+   "name": "11",
+   "value": "Make cities and human settlements inclusive, safe, resilient and sustainable",
+   "type": "Goal",
+   "parent": "",
+   "isOfficial": ""
+ },
+ {
+   "name": "12",
+   "value": "Ensure sustainable consumption and production patterns",
+   "type": "Goal",
+   "parent": "",
+   "isOfficial": ""
+ },
+ {
+   "name": "13",
+   "value": "Take urgent action to combat climate change and its impacts[b]",
+   "type": "Goal",
+   "parent": "",
+   "isOfficial": ""
+ },
+ {
+   "name": "14",
+   "value": "Conserve and sustainably use the oceans, seas and marine resources for sustainable development",
+   "type": "Goal",
+   "parent": "",
+   "isOfficial": ""
+ },
+ {
+   "name": "15",
+   "value": "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",
+   "type": "Goal",
+   "parent": "",
+   "isOfficial": ""
+ },
+ {
+   "name": "16",
+   "value": "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
+   "type": "Goal",
+   "parent": "",
+   "isOfficial": ""
+ },
+ {
+   "name": "17",
+   "value": "Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development",
+   "type": "Goal",
+   "parent": "",
+   "isOfficial": ""
+ },
+ {
+   "name": "1.1",
+   "value": "By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",
+   "type": "Target",
+   "parent": "1",
+   "isOfficial": ""
+ },
+ {
+   "name": "1.2",
+   "value": "By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
+   "type": "Target",
+   "parent": "1",
+   "isOfficial": ""
+ },
+ {
+   "name": "1.3",
+   "value": "Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable",
+   "type": "Target",
+   "parent": "1",
+   "isOfficial": ""
+ },
+ {
+   "name": "1.5",
+   "value": "By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters",
+   "type": "Target",
+   "parent": "1",
+   "isOfficial": ""
+ },
+ {
+   "name": "2.1",
+   "value": "By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round",
+   "type": "Target",
+   "parent": "2",
+   "isOfficial": ""
+ },
+ {
+   "name": "2.2",
+   "value": "By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons",
+   "type": "Target",
+   "parent": "2",
+   "isOfficial": ""
+ },
+ {
+   "name": "2.5",
+   "value": "By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species, including through soundly managed and diversified seed and plant banks at the national, regional and international levels, and promote access to and fair and equitable sharing of benefits arising from the utilization of genetic resources and associated traditional knowledge, as internationally agreed",
+   "type": "Target",
+   "parent": "2",
+   "isOfficial": ""
+ },
+ {
+   "name": "2.a",
+   "value": "Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries",
+   "type": "Target",
+   "parent": "2",
+   "isOfficial": ""
+ },
+ {
+   "name": "2.b",
+   "value": "Correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies and all export measures with equivalent effect, in accordance with the mandate of the Doha Development Round",
+   "type": "Target",
+   "parent": "2",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.1",
+   "value": "By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births",
+   "type": "Target",
+   "parent": "3",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.2",
+   "value": "By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births",
+   "type": "Target",
+   "parent": "3",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.3",
+   "value": "By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases",
+   "type": "Target",
+   "parent": "3",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.4",
+   "value": "By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being",
+   "type": "Target",
+   "parent": "3",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.5",
+   "value": "Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol",
+   "type": "Target",
+   "parent": "3",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.6",
+   "value": "By 2020, halve the number of global deaths and injuries from road traffic accidents",
+   "type": "Target",
+   "parent": "3",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.7",
+   "value": "By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes",
+   "type": "Target",
+   "parent": "3",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.9",
+   "value": "By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination",
+   "type": "Target",
+   "parent": "3",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.b",
+   "value": "Support the research and development of vaccines and medicines for the communicable and non-communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all",
+   "type": "Target",
+   "parent": "3",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.c",
+   "value": "Substantially increase health financing and the recruitment, development, training and retention of the health workforce in developing countries, especially in least developed countries and small island developing States",
+   "type": "Target",
+   "parent": "3",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.d",
+   "value": "Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks",
+   "type": "Target",
+   "parent": "3",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.1",
+   "value": "By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes",
+   "type": "Target",
+   "parent": "4",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.2",
+   "value": "By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education",
+   "type": "Target",
+   "parent": "4",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.3",
+   "value": "By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university",
+   "type": "Target",
+   "parent": "4",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.4",
+   "value": "By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship",
+   "type": "Target",
+   "parent": "4",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.5",
+   "value": "By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations",
+   "type": "Target",
+   "parent": "4",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.6",
+   "value": "By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy",
+   "type": "Target",
+   "parent": "4",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.a",
+   "value": "Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all",
+   "type": "Target",
+   "parent": "4",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.b",
+   "value": "By 2020, substantially expand globally the number of scholarships available to developing countries, in particular least developed countries, small island developing States and African countries, for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes, in developed countries and other developing countries",
+   "type": "Target",
+   "parent": "4",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.c",
+   "value": "By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States",
+   "type": "Target",
+   "parent": "4",
+   "isOfficial": ""
+ },
+ {
+   "name": "5.3",
+   "value": "Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation",
+   "type": "Target",
+   "parent": "5",
+   "isOfficial": ""
+ },
+ {
+   "name": "5.4",
+   "value": "Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate",
+   "type": "Target",
+   "parent": "5",
+   "isOfficial": ""
+ },
+ {
+   "name": "5.5",
+   "value": "Ensure women's full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life",
+   "type": "Target",
+   "parent": "5",
+   "isOfficial": ""
+ },
+ {
+   "name": "6.1",
+   "value": "By 2030, achieve universal and equitable access to safe and affordable drinking water for all",
+   "type": "Target",
+   "parent": "6",
+   "isOfficial": ""
+ },
+ {
+   "name": "6.2",
+   "value": "By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations",
+   "type": "Target",
+   "parent": "6",
+   "isOfficial": ""
+ },
+ {
+   "name": "6.4",
+   "value": "By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity",
+   "type": "Target",
+   "parent": "6",
+   "isOfficial": ""
+ },
+ {
+   "name": "6.5",
+   "value": "By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate",
+   "type": "Target",
+   "parent": "6",
+   "isOfficial": ""
+ },
+ {
+   "name": "6.a",
+   "value": "By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes, including water harvesting, desalination, water efficiency, wastewater treatment, recycling and reuse technologies",
+   "type": "Target",
+   "parent": "6",
+   "isOfficial": ""
+ },
+ {
+   "name": "6.b",
+   "value": "Support and strengthen the participation of local communities in improving water and sanitation management",
+   "type": "Target",
+   "parent": "6",
+   "isOfficial": ""
+ },
+ {
+   "name": "7.1",
+   "value": "By 2030, ensure universal access to affordable, reliable and modern energy services",
+   "type": "Target",
+   "parent": "7",
+   "isOfficial": ""
+ },
+ {
+   "name": "7.2",
+   "value": "By 2030, increase substantially the share of renewable energy in the global energy mix",
+   "type": "Target",
+   "parent": "7",
+   "isOfficial": ""
+ },
+ {
+   "name": "7.3",
+   "value": "By 2030, double the global rate of improvement in energy efficiency",
+   "type": "Target",
+   "parent": "7",
+   "isOfficial": ""
+ },
+ {
+   "name": "8.1",
+   "value": "Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries",
+   "type": "Target",
+   "parent": "8",
+   "isOfficial": ""
+ },
+ {
+   "name": "8.2",
+   "value": "Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors",
+   "type": "Target",
+   "parent": "8",
+   "isOfficial": ""
+ },
+ {
+   "name": "8.4",
+   "value": "Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation, in accordance with the 10-Year Framework of Programmes on Sustainable Consumption and Production, with developed countries taking the lead",
+   "type": "Target",
+   "parent": "8",
+   "isOfficial": ""
+ },
+ {
+   "name": "8.5",
+   "value": "By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value",
+   "type": "Target",
+   "parent": "8",
+   "isOfficial": ""
+ },
+ {
+   "name": "8.6",
+   "value": "By 2020, substantially reduce the proportion of youth not in employment, education or training",
+   "type": "Target",
+   "parent": "8",
+   "isOfficial": ""
+ },
+ {
+   "name": "8.7",
+   "value": "Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms",
+   "type": "Target",
+   "parent": "8",
+   "isOfficial": ""
+ },
+ {
+   "name": "8.10",
+   "value": "Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all",
+   "type": "Target",
+   "parent": "8",
+   "isOfficial": ""
+ },
+ {
+   "name": "8.a",
+   "value": "Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced Integrated Framework for Trade-related Technical Assistance to Least Developed Countries",
+   "type": "Target",
+   "parent": "8",
+   "isOfficial": ""
+ },
+ {
+   "name": "9.1",
+   "value": "Develop quality, reliable, sustainable and resilient infrastructure, including regional and trans-border infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all",
+   "type": "Target",
+   "parent": "9",
+   "isOfficial": ""
+ },
+ {
+   "name": "9.2",
+   "value": "Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry's share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries",
+   "type": "Target",
+   "parent": "9",
+   "isOfficial": ""
+ },
+ {
+   "name": "9.4",
+   "value": "By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities",
+   "type": "Target",
+   "parent": "9",
+   "isOfficial": ""
+ },
+ {
+   "name": "9.5",
+   "value": "Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending",
+   "type": "Target",
+   "parent": "9",
+   "isOfficial": ""
+ },
+ {
+   "name": "9.a",
+   "value": "Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States",
+   "type": "Target",
+   "parent": "9",
+   "isOfficial": ""
+ },
+ {
+   "name": "9.b",
+   "value": "Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities",
+   "type": "Target",
+   "parent": "9",
+   "isOfficial": ""
+ },
+ {
+   "name": "9.c",
+   "value": "Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020",
+   "type": "Target",
+   "parent": "9",
+   "isOfficial": ""
+ },
+ {
+   "name": "10.1",
+   "value": "By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average",
+   "type": "Target",
+   "parent": "10",
+   "isOfficial": ""
+ },
+ {
+   "name": "10.4",
+   "value": "Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality",
+   "type": "Target",
+   "parent": "10",
+   "isOfficial": ""
+ },
+ {
+   "name": "10.6",
+   "value": "Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions in order to deliver more effective, credible, accountable and legitimate institutions",
+   "type": "Target",
+   "parent": "10",
+   "isOfficial": ""
+ },
+ {
+   "name": "10.a",
+   "value": "Implement the principle of special and differential treatment for developing countries, in particular least developed countries, in accordance with World Trade Organization agreements",
+   "type": "Target",
+   "parent": "10",
+   "isOfficial": ""
+ },
+ {
+   "name": "10.b",
+   "value": "Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest, in particular least developed countries, African countries, small island developing States and landlocked developing countries, in accordance with their national plans and programmes",
+   "type": "Target",
+   "parent": "10",
+   "isOfficial": ""
+ },
+ {
+   "name": "10.c",
+   "value": "By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent",
+   "type": "Target",
+   "parent": "10",
+   "isOfficial": ""
+ },
+ {
+   "name": "11.1",
+   "value": "By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums",
+   "type": "Target",
+   "parent": "11",
+   "isOfficial": ""
+ },
+ {
+   "name": "11.5",
+   "value": "By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations",
+   "type": "Target",
+   "parent": "11",
+   "isOfficial": ""
+ },
+ {
+   "name": "11.6",
+   "value": "By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management",
+   "type": "Target",
+   "parent": "11",
+   "isOfficial": ""
+ },
+ {
+   "name": "11.b",
+   "value": "By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters, and develop and implement, in line with the Sendai Framework for Disaster Risk Reduction 2015-2030, holistic disaster risk management at all levels",
+   "type": "Target",
+   "parent": "11",
+   "isOfficial": ""
+ },
+ {
+   "name": "12.2",
+   "value": "By 2030, achieve the sustainable management and efficient use of natural resources",
+   "type": "Target",
+   "parent": "12",
+   "isOfficial": ""
+ },
+ {
+   "name": "12.4",
+   "value": "By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment",
+   "type": "Target",
+   "parent": "12",
+   "isOfficial": ""
+ },
+ {
+   "name": "13.1",
+   "value": "Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries",
+   "type": "Target",
+   "parent": "13",
+   "isOfficial": ""
+ },
+ {
+   "name": "14.4",
+   "value": "By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics",
+   "type": "Target",
+   "parent": "14",
+   "isOfficial": ""
+ },
+ {
+   "name": "14.5",
+   "value": "By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information",
+   "type": "Target",
+   "parent": "14",
+   "isOfficial": ""
+ },
+ {
+   "name": "15.1",
+   "value": "By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements",
+   "type": "Target",
+   "parent": "15",
+   "isOfficial": ""
+ },
+ {
+   "name": "15.4",
+   "value": "By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development",
+   "type": "Target",
+   "parent": "15",
+   "isOfficial": ""
+ },
+ {
+   "name": "15.5",
+   "value": "Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species",
+   "type": "Target",
+   "parent": "15",
+   "isOfficial": ""
+ },
+ {
+   "name": "15.a",
+   "value": "Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems",
+   "type": "Target",
+   "parent": "15",
+   "isOfficial": ""
+ },
+ {
+   "name": "15.b",
+   "value": "Mobilize significant resources from all sources and at all levels to finance sustainable forest management and provide adequate incentives to developing countries to advance such management, including for conservation and reforestation",
+   "type": "Target",
+   "parent": "15",
+   "isOfficial": ""
+ },
+ {
+   "name": "16.1",
+   "value": "Significantly reduce all forms of violence and related death rates everywhere",
+   "type": "Target",
+   "parent": "16",
+   "isOfficial": ""
+ },
+ {
+   "name": "16.2",
+   "value": "End abuse, exploitation, trafficking and all forms of violence against and torture of children",
+   "type": "Target",
+   "parent": "16",
+   "isOfficial": ""
+ },
+ {
+   "name": "16.3",
+   "value": "Promote the rule of law at the national and international levels and ensure equal access to justice for all",
+   "type": "Target",
+   "parent": "16",
+   "isOfficial": ""
+ },
+ {
+   "name": "16.5",
+   "value": "Substantially reduce corruption and bribery in all their forms",
+   "type": "Target",
+   "parent": "16",
+   "isOfficial": ""
+ },
+ {
+   "name": "16.8",
+   "value": "Broaden and strengthen the participation of developing countries in the institutions of global governance",
+   "type": "Target",
+   "parent": "16",
+   "isOfficial": ""
+ },
+ {
+   "name": "16.9",
+   "value": "By 2030, provide legal identity for all, including birth registration",
+   "type": "Target",
+   "parent": "16",
+   "isOfficial": ""
+ },
+ {
+   "name": "16.10",
+   "value": "Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements",
+   "type": "Target",
+   "parent": "16",
+   "isOfficial": ""
+ },
+ {
+   "name": "16.a",
+   "value": "Strengthen relevant national institutions, including through international cooperation, for building capacity at all levels, in particular in developing countries, to prevent violence and combat terrorism and crime",
+   "type": "Target",
+   "parent": "16",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.2",
+   "value": "Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7 per cent of gross national income for official development assistance (ODA/GNI) to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries; ODA providers are encouraged to consider setting a target to provide at least 0.20 per cent of ODA/GNI to least developed countries",
+   "type": "Target",
+   "parent": "17",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.3",
+   "value": "Mobilize additional financial resources for developing countries from multiple sources",
+   "type": "Target",
+   "parent": "17",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.4",
+   "value": "Assist developing countries in attaining long-term debt sustainability through coordinated policies aimed at fostering debt financing, debt relief and debt restructuring, as appropriate, and address the external debt of highly indebted poor countries to reduce debt distress",
+   "type": "Target",
+   "parent": "17",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.6",
+   "value": "Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge-sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism",
+   "type": "Target",
+   "parent": "17",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.8",
+   "value": "Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology",
+   "type": "Target",
+   "parent": "17",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.9",
+   "value": "Enhance international support for implementing effective and targeted capacity-building in developing countries to support national plans to implement all the Sustainable Development Goals, including through North-South, South-South and triangular cooperation",
+   "type": "Target",
+   "parent": "17",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.10",
+   "value": "Promote a universal, rules-based, open, non-discriminatory and equitable multilateral trading system under the World Trade Organization, including through the conclusion of negotiations under its Doha Development Agenda",
+   "type": "Target",
+   "parent": "17",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.11",
+   "value": "Significantly increase the exports of developing countries, in particular with a view to doubling the least developed countries' share of global exports by 2020",
+   "type": "Target",
+   "parent": "17",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.12",
+   "value": "Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries, consistent with World Trade Organization decisions, including by ensuring that preferential rules of origin applicable to imports from least developed countries are transparent and simple, and contribute to facilitating market access",
+   "type": "Target",
+   "parent": "17",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.18",
+   "value": "By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics relevant in national contexts",
+   "type": "Target",
+   "parent": "17",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.19",
+   "value": "By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries",
+   "type": "Target",
+   "parent": "17",
+   "isOfficial": ""
+ },
+ {
+   "name": "1.1.1",
+   "value": "Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)",
+   "type": "Indicator",
+   "parent": "1.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "1.2.1",
+   "value": "Proportion of population living below the national poverty line, by sex and age",
+   "type": "Indicator",
+   "parent": "1.2",
+   "isOfficial": ""
+ },
+ {
+   "name": "1.3.1",
+   "value": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",
+   "type": "Indicator",
+   "parent": "1.3",
+   "isOfficial": ""
+ },
+ {
+   "name": "1.5.1",
+   "value": "Number of deaths, missing persons and persons affected by disaster per 100,000 people [a]",
+   "type": "Indicator",
+   "parent": "1.5",
+   "isOfficial": ""
+ },
+ {
+   "name": "1.5.2",
+   "value": "Direct disaster economic loss in relation to global gross domestic product (GDP)[a]",
+   "type": "Indicator",
+   "parent": "1.5",
+   "isOfficial": ""
+ },
+ {
+   "name": "1.5.3",
+   "value": "Number of countries with national and local disaster risk reduction strategies[a]",
+   "type": "Indicator",
+   "parent": "1.5",
+   "isOfficial": ""
+ },
+ {
+   "name": "2.1.1",
+   "value": "Prevalence of undernourishment",
+   "type": "Indicator",
+   "parent": "2.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "2.1.2",
+   "value": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",
+   "type": "Indicator",
+   "parent": "2.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "2.2.1",
+   "value": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age",
+   "type": "Indicator",
+   "parent": "2.2",
+   "isOfficial": ""
+ },
+ {
+   "name": "2.2.2",
+   "value": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",
+   "type": "Indicator",
+   "parent": "2.2",
+   "isOfficial": ""
+ },
+ {
+   "name": "2.5.2",
+   "value": "Proportion of local breeds classified as being at risk, not-at-risk or at unknown level of risk of extinction",
+   "type": "Indicator",
+   "parent": "2.5",
+   "isOfficial": ""
+ },
+ {
+   "name": "2.a.1",
+   "value": "The agriculture orientation index for government expenditures",
+   "type": "Indicator",
+   "parent": "2.a",
+   "isOfficial": ""
+ },
+ {
+   "name": "2.a.2",
+   "value": "Total official flows (official development assistance plus other official flows) to the agriculture sector",
+   "type": "Indicator",
+   "parent": "2.a",
+   "isOfficial": ""
+ },
+ {
+   "name": "2.b.1",
+   "value": "Producer Support Estimate",
+   "type": "Indicator",
+   "parent": "2.b",
+   "isOfficial": ""
+ },
+ {
+   "name": "2.b.2",
+   "value": "Agricultural export subsidies",
+   "type": "Indicator",
+   "parent": "2.b",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.1.1",
+   "value": "Maternal mortality ratio",
+   "type": "Indicator",
+   "parent": "3.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.1.2",
+   "value": "Proportion of births attended by skilled health personnel",
+   "type": "Indicator",
+   "parent": "3.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.2.1",
+   "value": "Under-five mortality rate",
+   "type": "Indicator",
+   "parent": "3.2",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.2.2",
+   "value": "Neonatal mortality rate",
+   "type": "Indicator",
+   "parent": "3.2",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.3.1",
+   "value": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",
+   "type": "Indicator",
+   "parent": "3.3",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.3.2",
+   "value": "Tuberculosis incidence per 1,000 population",
+   "type": "Indicator",
+   "parent": "3.3",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.3.3",
+   "value": "Malaria incidence per 1,000 population",
+   "type": "Indicator",
+   "parent": "3.3",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.3.5",
+   "value": "Number of people requiring interventions against neglected tropical diseases",
+   "type": "Indicator",
+   "parent": "3.3",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.4.1",
+   "value": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",
+   "type": "Indicator",
+   "parent": "3.4",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.4.2",
+   "value": "Suicide mortality rate",
+   "type": "Indicator",
+   "parent": "3.4",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.5.2",
+   "value": "Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol",
+   "type": "Indicator",
+   "parent": "3.5",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.6.1",
+   "value": "Death rate due to road traffic injuries",
+   "type": "Indicator",
+   "parent": "3.6",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.7.1",
+   "value": "Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods",
+   "type": "Indicator",
+   "parent": "3.7",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.7.2",
+   "value": "Adolescent birth rate (aged 10-14 years; aged 15-19 years) per 1,000 women in that age group",
+   "type": "Indicator",
+   "parent": "3.7",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.9.1",
+   "value": "Mortality rate attributed to household and ambient air pollution",
+   "type": "Indicator",
+   "parent": "3.9",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.9.2",
+   "value": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",
+   "type": "Indicator",
+   "parent": "3.9",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.9.3",
+   "value": "Mortality rate attributed to unintentional poisoning",
+   "type": "Indicator",
+   "parent": "3.9",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.b.2",
+   "value": "Total net official development assistance to the medical research and basic health sectors",
+   "type": "Indicator",
+   "parent": "3.b",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.c.1",
+   "value": "Health worker density and distribution",
+   "type": "Indicator",
+   "parent": "3.c",
+   "isOfficial": ""
+ },
+ {
+   "name": "3.d.1",
+   "value": "International Health Regulations (IHR) capacity and health emergency preparedness",
+   "type": "Indicator",
+   "parent": "3.d",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.1.1",
+   "value": "Proportion of children and young people: (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex)",
+   "type": "Indicator",
+   "parent": "4.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.2.1",
+   "value": "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex",
+   "type": "Indicator",
+   "parent": "4.2",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.2.2",
+   "value": "Participation rate in organized learning (one year before the official primary entry age), by sex",
+   "type": "Indicator",
+   "parent": "4.2",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.3.1",
+   "value": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",
+   "type": "Indicator",
+   "parent": "4.3",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.4.1",
+   "value": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",
+   "type": "Indicator",
+   "parent": "4.4",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.5.1",
+   "value": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",
+   "type": "Indicator",
+   "parent": "4.5",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.6.1",
+   "value": "Percentage of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex",
+   "type": "Indicator",
+   "parent": "4.6",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.a.1",
+   "value": "Proportion of schools with access to: (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)",
+   "type": "Indicator",
+   "parent": "4.a",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.b.1",
+   "value": "Volume of official development assistance flows for scholarships by sector and type of study",
+   "type": "Indicator",
+   "parent": "4.b",
+   "isOfficial": ""
+ },
+ {
+   "name": "4.c.1",
+   "value": "Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country",
+   "type": "Indicator",
+   "parent": "4.c",
+   "isOfficial": ""
+ },
+ {
+   "name": "5.3.1",
+   "value": "Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18",
+   "type": "Indicator",
+   "parent": "5.3",
+   "isOfficial": ""
+ },
+ {
+   "name": "5.3.2",
+   "value": "Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting, by age",
+   "type": "Indicator",
+   "parent": "5.3",
+   "isOfficial": ""
+ },
+ {
+   "name": "5.4.1",
+   "value": "Proportion of time spent on unpaid domestic and care work, by sex, age and location",
+   "type": "Indicator",
+   "parent": "5.4",
+   "isOfficial": ""
+ },
+ {
+   "name": "5.5.1",
+   "value": "Proportion of seats held by women in national parliaments and local governments",
+   "type": "Indicator",
+   "parent": "5.5",
+   "isOfficial": ""
+ },
+ {
+   "name": "5.5.2",
+   "value": "Proportion of women in managerial positions",
+   "type": "Indicator",
+   "parent": "5.5",
+   "isOfficial": ""
+ },
+ {
+   "name": "6.1.1",
+   "value": "Proportion of population using safely managed drinking water services",
+   "type": "Indicator",
+   "parent": "6.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "6.2.1",
+   "value": "Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water",
+   "type": "Indicator",
+   "parent": "6.2",
+   "isOfficial": ""
+ },
+ {
+   "name": "6.4.2",
+   "value": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
+   "type": "Indicator",
+   "parent": "6.4",
+   "isOfficial": ""
+ },
+ {
+   "name": "6.5.1",
+   "value": "Degree of integrated water resources management implementation (0-100)",
+   "type": "Indicator",
+   "parent": "6.5",
+   "isOfficial": ""
+ },
+ {
+   "name": "6.a.1",
+   "value": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan",
+   "type": "Indicator",
+   "parent": "6.a",
+   "isOfficial": ""
+ },
+ {
+   "name": "6.b.1",
+   "value": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management",
+   "type": "Indicator",
+   "parent": "6.b",
+   "isOfficial": ""
+ },
+ {
+   "name": "7.1.1",
+   "value": "Proportion of population with access to electricity",
+   "type": "Indicator",
+   "parent": "7.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "7.1.2",
+   "value": "Proportion of population with primary reliance on clean fuels and technology",
+   "type": "Indicator",
+   "parent": "7.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "7.2.1",
+   "value": "Renewable energy share in the total final energy consumption",
+   "type": "Indicator",
+   "parent": "7.2",
+   "isOfficial": ""
+ },
+ {
+   "name": "7.3.1",
+   "value": "Energy intensity measured in terms of primary energy and GDP",
+   "type": "Indicator",
+   "parent": "7.3",
+   "isOfficial": ""
+ },
+ {
+   "name": "8.2.1",
+   "value": "Annual growth rate of real GDP per employed person",
+   "type": "Indicator",
+   "parent": "8.2",
+   "isOfficial": ""
+ },
+ {
+   "name": "8.4.1",
+   "value": "Material footprint, material footprint per capita, and material footprint per GDP",
+   "type": "Indicator",
+   "parent": "8.4",
+   "isOfficial": ""
+ },
+ {
+   "name": "8.4.2",
+   "value": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",
+   "type": "Indicator",
+   "parent": "8.4",
+   "isOfficial": ""
+ },
+ {
+   "name": "8.5.2",
+   "value": "Unemployment rate, by sex, age and persons with disabilities",
+   "type": "Indicator",
+   "parent": "8.5",
+   "isOfficial": ""
+ },
+ {
+   "name": "8.6.1",
+   "value": "Proportion of youth (aged 15-24 years) not in education, employment or training",
+   "type": "Indicator",
+   "parent": "8.6",
+   "isOfficial": ""
+ },
+ {
+   "name": "8.7.1",
+   "value": "Proportion and number of children aged 5-17 years engaged in child labour, by sex and age",
+   "type": "Indicator",
+   "parent": "8.7",
+   "isOfficial": ""
+ },
+ {
+   "name": "8.1.1",
+   "value": "Annual growth rate of real GDP per capita",
+   "type": "Indicator",
+   "parent": "8.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "8.10.2",
+   "value": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider",
+   "type": "Indicator",
+   "parent": "8.10",
+   "isOfficial": ""
+ },
+ {
+   "name": "8.a.1",
+   "value": "Aid for Trade commitments and disbursements",
+   "type": "Indicator",
+   "parent": "8.a",
+   "isOfficial": ""
+ },
+ {
+   "name": "9.1.2",
+   "value": "Passenger and freight volumes, by mode of transport",
+   "type": "Indicator",
+   "parent": "9.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "9.2.1",
+   "value": "Manufacturing value added as a proportion of GDP and per capita",
+   "type": "Indicator",
+   "parent": "9.2",
+   "isOfficial": ""
+ },
+ {
+   "name": "9.2.2",
+   "value": "Manufacturing employment as a proportion of total employment",
+   "type": "Indicator",
+   "parent": "9.2",
+   "isOfficial": ""
+ },
+ {
+   "name": "9.4.1",
+   "value": "CO2 emission per unit of value added",
+   "type": "Indicator",
+   "parent": "9.4",
+   "isOfficial": ""
+ },
+ {
+   "name": "9.5.1",
+   "value": "Research and development expenditure as a proportion of GDP",
+   "type": "Indicator",
+   "parent": "9.5",
+   "isOfficial": ""
+ },
+ {
+   "name": "9.5.2",
+   "value": "Researchers (in full-time equivalent) per million inhabitants",
+   "type": "Indicator",
+   "parent": "9.5",
+   "isOfficial": ""
+ },
+ {
+   "name": "9.a.1",
+   "value": "Total official international support (official development assistance plus other official flows) to infrastructure",
+   "type": "Indicator",
+   "parent": "9.a",
+   "isOfficial": ""
+ },
+ {
+   "name": "9.b.1",
+   "value": "Proportion of medium and high-tech industry value added in total value added",
+   "type": "Indicator",
+   "parent": "9.b",
+   "isOfficial": ""
+ },
+ {
+   "name": "9.c.1",
+   "value": "Proportion of population covered by a mobile network, by technology",
+   "type": "Indicator",
+   "parent": "9.c",
+   "isOfficial": ""
+ },
+ {
+   "name": "10.1.1",
+   "value": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population",
+   "type": "Indicator",
+   "parent": "10.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "10.4.1",
+   "value": "Labour share of GDP, comprising wages and social protection transfers",
+   "type": "Indicator",
+   "parent": "10.4",
+   "isOfficial": ""
+ },
+ {
+   "name": "10.6.1",
+   "value": "Proportion of members and voting rights of developing countries in international organizations",
+   "type": "Indicator",
+   "parent": "10.6",
+   "isOfficial": ""
+ },
+ {
+   "name": "10.a.1",
+   "value": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff",
+   "type": "Indicator",
+   "parent": "10.a",
+   "isOfficial": ""
+ },
+ {
+   "name": "10.b.1",
+   "value": "Total resource flows for development, by recipient and donor countries and type of flow (e.g., official development assistance, foreign direct investment and other flows)",
+   "type": "Indicator",
+   "parent": "10.b",
+   "isOfficial": ""
+ },
+ {
+   "name": "10.c.1",
+   "value": "Remittance costs as a proportion of the amount remitted",
+   "type": "Indicator",
+   "parent": "10.c",
+   "isOfficial": ""
+ },
+ {
+   "name": "11.1.1",
+   "value": "Proportion of urban population living in slums, informal settlements or inadequate housing",
+   "type": "Indicator",
+   "parent": "11.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "11.5.1",
+   "value": "Number of deaths, missing persons and persons affected by disaster per 100,000 people [a]",
+   "type": "Indicator",
+   "parent": "11.5",
+   "isOfficial": ""
+ },
+ {
+   "name": "11.5.2",
+   "value": "Direct disaster economic loss in relation to global GDP, including disaster damage to critical infrastructure and disruption of basic services [a]",
+   "type": "Indicator",
+   "parent": "11.5",
+   "isOfficial": ""
+ },
+ {
+   "name": "11.6.2",
+   "value": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)",
+   "type": "Indicator",
+   "parent": "11.6",
+   "isOfficial": ""
+ },
+ {
+   "name": "11.b.2",
+   "value": "Number of countries with national and local disaster risk reduction strategies [a]",
+   "type": "Indicator",
+   "parent": "11.b",
+   "isOfficial": ""
+ },
+ {
+   "name": "12.2.1",
+   "value": "Material footprint, material footprint per capita, and material footprint per GDP",
+   "type": "Indicator",
+   "parent": "12.2",
+   "isOfficial": ""
+ },
+ {
+   "name": "12.2.2",
+   "value": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",
+   "type": "Indicator",
+   "parent": "12.2",
+   "isOfficial": ""
+ },
+ {
+   "name": "12.4.1",
+   "value": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement",
+   "type": "Indicator",
+   "parent": "12.4",
+   "isOfficial": ""
+ },
+ {
+   "name": "13.1.2",
+   "value": "Number of deaths, missing persons and persons affected by disaster per 100,000 people [a]",
+   "type": "Indicator",
+   "parent": "13.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "13.1.1",
+   "value": "Number of countries with national and local disaster risk reduction strategies [a]",
+   "type": "Indicator",
+   "parent": "13.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "14.4.1",
+   "value": "Proportion of fish stocks within biologically sustainable levels",
+   "type": "Indicator",
+   "parent": "14.4",
+   "isOfficial": ""
+ },
+ {
+   "name": "14.5.1",
+   "value": "Coverage of protected areas in relation to marine areas",
+   "type": "Indicator",
+   "parent": "14.5",
+   "isOfficial": ""
+ },
+ {
+   "name": "15.1.1",
+   "value": "Forest area as a proportion of total land area",
+   "type": "Indicator",
+   "parent": "15.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "15.1.2",
+   "value": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",
+   "type": "Indicator",
+   "parent": "15.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "15.4.1",
+   "value": "Coverage by protected areas of important sites for mountain biodiversity",
+   "type": "Indicator",
+   "parent": "15.4",
+   "isOfficial": ""
+ },
+ {
+   "name": "15.5.1",
+   "value": "Red List Index",
+   "type": "Indicator",
+   "parent": "15.5",
+   "isOfficial": ""
+ },
+ {
+   "name": "15.a.1",
+   "value": "Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems",
+   "type": "Indicator",
+   "parent": "15.a",
+   "isOfficial": ""
+ },
+ {
+   "name": "15.b.1",
+   "value": "Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems",
+   "type": "Indicator",
+   "parent": "15.b",
+   "isOfficial": ""
+ },
+ {
+   "name": "16.1.1",
+   "value": "Number of victims of intentional homicide per 100,000 population, by sex and age",
+   "type": "Indicator",
+   "parent": "16.1",
+   "isOfficial": ""
+ },
+ {
+   "name": "16.2.1",
+   "value": "Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month",
+   "type": "Indicator",
+   "parent": "16.2",
+   "isOfficial": ""
+ },
+ {
+   "name": "16.2.3",
+   "value": "Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18",
+   "type": "Indicator",
+   "parent": "16.2",
+   "isOfficial": ""
+ },
+ {
+   "name": "16.3.2",
+   "value": "Unsentenced detainees as a proportion of overall prison population",
+   "type": "Indicator",
+   "parent": "16.3",
+   "isOfficial": ""
+ },
+ {
+   "name": "16.5.2",
+   "value": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",
+   "type": "Indicator",
+   "parent": "16.5",
+   "isOfficial": ""
+ },
+ {
+   "name": "16.8.1",
+   "value": "Proportion of members and voting rights of developing countries in international organizations",
+   "type": "Indicator",
+   "parent": "16.8",
+   "isOfficial": ""
+ },
+ {
+   "name": "16.9.1",
+   "value": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",
+   "type": "Indicator",
+   "parent": "16.9",
+   "isOfficial": ""
+ },
+ {
+   "name": "16.10.1",
+   "value": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months",
+   "type": "Indicator",
+   "parent": "16.10",
+   "isOfficial": ""
+ },
+ {
+   "name": "16.a.1",
+   "value": "Existence of independent national human rights institutions in compliance with the Paris Principles",
+   "type": "Indicator",
+   "parent": "16.a",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.2.1",
+   "value": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors' gross national income (GNI)",
+   "type": "Indicator",
+   "parent": "17.2",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.3.2",
+   "value": "Volume of remittances (in United States dollars) as a proportion of total GDP",
+   "type": "Indicator",
+   "parent": "17.3",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.4.1",
+   "value": "Debt service as a proportion of exports of goods and services",
+   "type": "Indicator",
+   "parent": "17.4",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.6.2",
+   "value": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed",
+   "type": "Indicator",
+   "parent": "17.6",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.8.1",
+   "value": "Proportion of individuals using the Internet",
+   "type": "Indicator",
+   "parent": "17.8",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.9.1",
+   "value": "Dollar value of financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to developing countries",
+   "type": "Indicator",
+   "parent": "17.9",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.10.1",
+   "value": "Worldwide weighted tariff-average",
+   "type": "Indicator",
+   "parent": "17.10",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.11.1",
+   "value": "Developing countries' and least developed countries' share of global exports",
+   "type": "Indicator",
+   "parent": "17.11",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.12.1",
+   "value": "Average tariffs faced by developing countries, least developed countries and small island developing States",
+   "type": "Indicator",
+   "parent": "17.12",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.18.3",
+   "value": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding",
+   "type": "Indicator",
+   "parent": "17.18",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.19.1",
+   "value": "Dollar value of all resources made available to strengthen statistical capacity in developing countries",
+   "type": "Indicator",
+   "parent": "17.19",
+   "isOfficial": ""
+ },
+ {
+   "name": "17.19.2",
+   "value": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration",
+   "type": "Indicator",
+   "parent": "17.19",
+   "isOfficial": ""
+ },
+ {
+   "name": "SI_POV_DAY1",
+   "value": "Proportion of population below the international poverty line of US$1.90 per day",
+   "type": "Series",
+   "parent": "1.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SI_POV_EMP1",
+   "value": "Proportion of employed population below the international poverty line of US$1.90 per day (the working poor)",
+   "type": "Series",
+   "parent": "1.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SI_POV_NAHC",
+   "value": "Proportion of population below national poverty line",
+   "type": "Series",
+   "parent": "1.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SI_COV_POPT",
+   "value": "Proportion of population covered by social assistance, social insurance and labour market programs",
+   "type": "Series",
+   "parent": "1.3.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SI_COV_UEMP",
+   "value": "Proportion of unemployed receiving unemployment benefits",
+   "type": "Series",
+   "parent": "1.3.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SI_COV_LMKT",
+   "value": "Proportion of the population covered by labour market programs",
+   "type": "Series",
+   "parent": "1.3.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SI_COV_LMKTPQ",
+   "value": "Proportion of the poorest quintile population covered by labour market programs",
+   "type": "Series",
+   "parent": "1.3.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SI_COV_SOCINS",
+   "value": "Proportion of the population covered by social insurance programs",
+   "type": "Series",
+   "parent": "1.3.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SI_COV_SOCINSPQ",
+   "value": "Proportion of the poorest quintile population covered by social insurance programs",
+   "type": "Series",
+   "parent": "1.3.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SI_COV_SOCAST",
+   "value": "Proportion of the population covered by social assistance programs",
+   "type": "Series",
+   "parent": "1.3.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SI_COV_SOCASTPQ",
+   "value": "Proportion of the poorest quintile population covered by social assistance programs",
+   "type": "Series",
+   "parent": "1.3.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "VC_DSR_AFFCT",
+   "value": "Number of persons affected by disaster per 100,000 people",
+   "type": "Series",
+   "parent": "1.5.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "VC_DSR_MORT",
+   "value": "Number of deaths due to disaster",
+   "type": "Series",
+   "parent": "1.5.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "VC_DSR_MISS",
+   "value": "Missing persons due to disaster",
+   "type": "Series",
+   "parent": "1.5.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "VC_DSR_GDPLS",
+   "value": "Direct disaster economic loss in relation to global GDP",
+   "type": "Series",
+   "parent": "1.5.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SG_DSR_NLRRS",
+   "value": "National and local disaster risk reduction strategies",
+   "type": "Series",
+   "parent": "1.5.3",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SN_ITK_DEFC",
+   "value": "Prevalence of undernourishment",
+   "type": "Series",
+   "parent": "2.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "AG_PRD_FIESMS",
+   "value": "Estimated prevalence of moderate or severe food insecurity in the adult population",
+   "type": "Series",
+   "parent": "2.1.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "AG_PRD_FIESMS_LB",
+   "value": "Estimated prevalence of moderate or severe food insecurity in the population (lower bound)",
+   "type": "Series",
+   "parent": "2.1.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "AG_PRD_FIESMS_UB",
+   "value": "Estimated prevalence of moderate or severe food insecurity in the population (upper bound)",
+   "type": "Series",
+   "parent": "2.1.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "AG_PRD_FIESS",
+   "value": "Estimated prevalence of severe food insecurity in the population",
+   "type": "Series",
+   "parent": "2.1.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "AG_PRD_FIESS_LB",
+   "value": "Estimated prevalence of severe food insecurity in the population (lower bound)",
+   "type": "Series",
+   "parent": "2.1.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "AG_PRD_FIESS_UB",
+   "value": "Estimated prevalence of severe food insecurity in the population (upper bound)",
+   "type": "Series",
+   "parent": "2.1.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_STA_STNT",
+   "value": "Proportion of stunted children (height for age below minus two standard deviations from the median) under the age of 5 years",
+   "type": "Series",
+   "parent": "2.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_STA_STNT_LB",
+   "value": "Proportion of stunted children (height for age below minus two standard deviations from the median) under the age of 5 years (lower bound)",
+   "type": "Series",
+   "parent": "2.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_STA_STNT_UB",
+   "value": "Proportion of stunted children (height for age below minus two standard deviations from the median) under the age of 5 years (upper bound)",
+   "type": "Series",
+   "parent": "2.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_STA_STNTN",
+   "value": "Number of stunted children (height for age below minus two standard deviations from the median) under the age of 5 years",
+   "type": "Series",
+   "parent": "2.2.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_STA_STNTN_LB",
+   "value": "Number of stunted children (height for age below minus two standard deviations from the median) under the age of 5 years (lower bound)",
+   "type": "Series",
+   "parent": "2.2.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_STA_STNTN_UB",
+   "value": "Number of stunted children (height for age below minus two standard deviations from the median) under the age of 5 years (upper bound)",
+   "type": "Series",
+   "parent": "2.2.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_STA_WAST",
+   "value": "Proportion of wasted children (weight for height below minus two standard deviations from the median) under the age of 5 years",
+   "type": "Series",
+   "parent": "2.2.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_STA_WAST_LB",
+   "value": "Proportion of wasted children (weight for height below minus two standard deviations from the median) under the age of 5 years (lower bound)",
+   "type": "Series",
+   "parent": "2.2.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_STA_WAST_UB",
+   "value": "Proportion of wasted children (weight for height below minus two standard deviations from the median) under the age of 5 years (upper bound)",
+   "type": "Series",
+   "parent": "2.2.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_STA_WASTN",
+   "value": "Number of wasted children (weight for height below minus two standard deviations from the median) under the age of 5 years",
+   "type": "Series",
+   "parent": "2.2.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SN_STA_OVWGT",
+   "value": "Proportion of overweight children (weight for height above plus two standard deviations from the median) under the age of 5 years",
+   "type": "Series",
+   "parent": "2.2.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SN_STA_OVWGT_LB",
+   "value": "Proportion of overweight children (weight for height above plus two standard deviations from the median) under the age of 5 years (lower bound)",
+   "type": "Series",
+   "parent": "2.2.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SN_STA_OVWGT_UB",
+   "value": "Proportion of overweight children (weight for height above plus two standard deviations from the median) under the age of 5 years (upper bound)",
+   "type": "Series",
+   "parent": "2.2.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SN_STA_OVWGTN",
+   "value": "Number of overweight children (weight for height above plus two standard deviations from the median) under the age of 5 years",
+   "type": "Series",
+   "parent": "2.2.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "ER_RSK_LBRED",
+   "value": "Proportion of local breeds classified as being not-at-risk of extinction",
+   "type": "Series",
+   "parent": "2.5.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "ER_NRK_LBRED",
+   "value": "Proportion of local breeds classified as being at risk of extinction",
+   "type": "Series",
+   "parent": "2.5.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "ER_UNK_LBRED",
+   "value": "Proportion of local breeds classified as being at unknown level of risk of extinction",
+   "type": "Series",
+   "parent": "2.5.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "ER_RSK_LBREDN",
+   "value": "Number of local breeds classified as being not-at-risk of extinction",
+   "type": "Series",
+   "parent": "2.5.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "ER_NRK_LBREDN",
+   "value": "Number of local breeds classified as being at risk of extinction",
+   "type": "Series",
+   "parent": "2.5.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "ER_UNK_LBREDN",
+   "value": "Number of local breeds classified as being at unknown level of risk of extinction",
+   "type": "Series",
+   "parent": "2.5.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "AG_PRD_ORTIND",
+   "value": "The agriculture orientation index for government expenditures",
+   "type": "Series",
+   "parent": "2.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_TOF_AGRL",
+   "value": "Total official flows disbursements for agriculture, by recipient",
+   "type": "Series",
+   "parent": "2.a.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_TOF_AGRP",
+   "value": "Total official flows disbursements for agriculture, by recipient, as a percentage of donors' sector-allocable total official flows",
+   "type": "Series",
+   "parent": "2.a.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "AG_PRD_PSEST",
+   "value": "Producer Support Estimate",
+   "type": "Series",
+   "parent": "2.b.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "AG_PRD_XSUBDY",
+   "value": "Agricultural export subsidies",
+   "type": "Series",
+   "parent": "2.b.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_STA_MORT",
+   "value": "Maternal mortality ratio",
+   "type": "Series",
+   "parent": "3.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_STA_BRTC",
+   "value": "Proportion of births attended by skilled health personnel",
+   "type": "Series",
+   "parent": "3.1.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_DYN_MORT",
+   "value": "Under-five mortality rate",
+   "type": "Series",
+   "parent": "3.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_DYN_MORTN",
+   "value": "Number of under-five deaths",
+   "type": "Series",
+   "parent": "3.2.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_DYN_IMRT",
+   "value": "Infant mortality rate",
+   "type": "Series",
+   "parent": "3.2.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_DYN_IMRTN",
+   "value": "Number of infant deaths",
+   "type": "Series",
+   "parent": "3.2.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_DYN_NMRT",
+   "value": "Neonatal mortality rate",
+   "type": "Series",
+   "parent": "3.2.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_DYN_NMRTN",
+   "value": "Number of neonatal deaths",
+   "type": "Series",
+   "parent": "3.2.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_HIV_INCD",
+   "value": "Estimated HIV incidence rate",
+   "type": "Series",
+   "parent": "3.3.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_TBS_INCD",
+   "value": "Tuberculosis incidence per 100,000 population",
+   "type": "Series",
+   "parent": "3.3.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_TBS_INCD_LB",
+   "value": "Tuberculosis incidence per 100,000 population (lower bound)",
+   "type": "Series",
+   "parent": "3.3.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_TBS_INCD_UB",
+   "value": "Tuberculosis incidence per 100,000 population (upper bound)",
+   "type": "Series",
+   "parent": "3.3.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_TBS_MORT",
+   "value": "Tuberculosis deaths per 100,000 population",
+   "type": "Series",
+   "parent": "3.3.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_TBS_MORT_LB",
+   "value": "Tuberculosis deaths per 100,000 population (lower bound)",
+   "type": "Series",
+   "parent": "3.3.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_TBS_MORT_UB",
+   "value": "Tuberculosis deaths per 100,000 population (upper bound)",
+   "type": "Series",
+   "parent": "3.3.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_STA_MALR",
+   "value": "Malaria incidence per 1,000 population",
+   "type": "Series",
+   "parent": "3.3.3",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_TRP_INTVN",
+   "value": "Number of people requiring interventions against neglected tropical diseases",
+   "type": "Series",
+   "parent": "3.3.5",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_DTH_NCOM",
+   "value": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",
+   "type": "Series",
+   "parent": "3.4.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_DTH_CARDIO",
+   "value": "Number of deaths attributed to cardiovascular disease",
+   "type": "Series",
+   "parent": "3.4.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_DTH_CANCER",
+   "value": "Number of deaths attributed to cancer",
+   "type": "Series",
+   "parent": "3.4.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_DTH_DIABTS",
+   "value": "Number of deaths attributed to diabetes",
+   "type": "Series",
+   "parent": "3.4.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_DTH_CRESPD",
+   "value": "Number of deaths attributed to chronic respiratory disease",
+   "type": "Series",
+   "parent": "3.4.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_STA_SCIDE",
+   "value": "Suicide mortality rate",
+   "type": "Series",
+   "parent": "3.4.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_STA_SCIDEN",
+   "value": "Number of deaths attributed to suicide",
+   "type": "Series",
+   "parent": "3.4.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_ALC_CONSPT",
+   "value": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol",
+   "type": "Series",
+   "parent": "3.5.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_STA_TRAF",
+   "value": "Death rate due to road traffic injuries",
+   "type": "Series",
+   "parent": "3.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_FPL_MTMM",
+   "value": "Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods",
+   "type": "Series",
+   "parent": "3.7.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SP_DYN_ADKL",
+   "value": "Adolescent birth rate per 1,000 adolescent women aged 15-19",
+   "type": "Series",
+   "parent": "3.7.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_STA_AIRP",
+   "value": "Mortality rate attributed to household and ambient air pollution",
+   "type": "Series",
+   "parent": "3.9.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_STA_WASH",
+   "value": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene",
+   "type": "Series",
+   "parent": "3.9.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_STA_POISN",
+   "value": "Mortality rate attributed to unintentional poisonings",
+   "type": "Series",
+   "parent": "3.9.3",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_TOF_HLTHL",
+   "value": "Total official flows for medical research and basic heath sectors, by recipient",
+   "type": "Series",
+   "parent": "3.b.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_TOF_HLTHP",
+   "value": "Total official flows for medical research and basic heath sectors, by recipient, as a percentage of donors' sector-allocable total official flows",
+   "type": "Series",
+   "parent": "3.b.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_MED_HWKR",
+   "value": "Health worker density and distribution",
+   "type": "Series",
+   "parent": "3.c.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_IHR_CAPPRD",
+   "value": "International Health Regulations (IHR) core capacity index",
+   "type": "Series",
+   "parent": "3.d.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_PRM_RDNG",
+   "value": "Proportion of children at the end of primary achieving at least a minimum proficiency level in reading",
+   "type": "Series",
+   "parent": "4.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_PRM_MATH",
+   "value": "Proportion of children at the end of primary achieving at least a minimum proficiency level in mathematics",
+   "type": "Series",
+   "parent": "4.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_LSC_RDNG",
+   "value": "Proportion of children atë_the end of lower secondary achieving at least a minimum proficiency level in reading",
+   "type": "Series",
+   "parent": "4.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_LSC_MATH",
+   "value": "Proportion of children atë_the end of lower secondary achieving at least a minimum proficiency level in mathematics",
+   "type": "Series",
+   "parent": "4.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_G23_RDG",
+   "value": "Proportion of children inë_grades 2/3 achieving at least a minimum proficiency level in reading",
+   "type": "Series",
+   "parent": "4.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_G23_MATH",
+   "value": "Proportion of childrenë_inë_grades 2/3 achieving at least a minimum proficiency level in mathematics",
+   "type": "Series",
+   "parent": "4.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_DEV_ONTRK",
+   "value": "Percentage of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development and learning",
+   "type": "Series",
+   "parent": "4.2.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SE_PRE_PARTN",
+   "value": "Participation rate in organized learning (one year before the official primary entry age)",
+   "type": "Series",
+   "parent": "4.2.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_ADT_EDUCTRN",
+   "value": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months",
+   "type": "Series",
+   "parent": "4.3.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_ADT_ICTCPY",
+   "value": "Proportion of youth and adults with information and communications technology (ICT) skill, copying or moving a file or folder",
+   "type": "Series",
+   "parent": "4.4.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SE_ADT_ICTINSTL",
+   "value": "Proportion of youth and adults with information and communications technology (ICT) skill, using basic arithmetic formula in a spreadsheet",
+   "type": "Series",
+   "parent": "4.4.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SE_ADT_ICTCTDV",
+   "value": "Proportion of youth and adults with information and communications technology (ICT) skill, connecting and installing new devices",
+   "type": "Series",
+   "parent": "4.4.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SE_PRE_GPITCH",
+   "value": "Gender parity index of teachers in pre-primary education who are trained",
+   "type": "Series",
+   "parent": "4.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_PRM_GPITCH",
+   "value": "Gender parity index of teachers in primary education who are trained",
+   "type": "Series",
+   "parent": "4.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_LSC_GPITCH",
+   "value": "Gender parity index of teachers in lower secondary education who are trained",
+   "type": "Series",
+   "parent": "4.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_USC_GPITCH",
+   "value": "Gender parity index of teachers in upper secondary education who are trained",
+   "type": "Series",
+   "parent": "4.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_SEC_GPITCH",
+   "value": "Gender parity index of teachers in secondary education who are trained",
+   "type": "Series",
+   "parent": "4.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_PRM_GPIRDNG",
+   "value": "Gender parity index for achievement in reading by the end of primary",
+   "type": "Series",
+   "parent": "4.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_PRM_GPIMATH",
+   "value": "Gender parity index for achievement in mathematics by the end of primary",
+   "type": "Series",
+   "parent": "4.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_LSC_GPIRDNG",
+   "value": "Gender parity index for achievement in reading by the end of lower secondary",
+   "type": "Series",
+   "parent": "4.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_LSC_GPIMATH",
+   "value": "Gender parity index for achievement in mathematics by the end of lower secondary",
+   "type": "Series",
+   "parent": "4.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_G23_GPIRDG",
+   "value": "Gender parity index for achievement in reading in grades 2/3",
+   "type": "Series",
+   "parent": "4.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_G23_GPIMATH",
+   "value": "Gender parity index for achievement in mathematics in grades 2/3",
+   "type": "Series",
+   "parent": "4.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_PRE_GPIPARTN",
+   "value": "Gender parity index for participation rate in organized learning (one year before the official primary entry age)",
+   "type": "Series",
+   "parent": "4.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_ADT_NMRCY",
+   "value": "Percentage of population in a given age group achieving at least a fixed level of proficiency in functional numeracy skills",
+   "type": "Series",
+   "parent": "4.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_ADT_LTRCY",
+   "value": "Percentage of population in a given age group achieving at least a fixed level of proficiency in functional literacy skills",
+   "type": "Series",
+   "parent": "4.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_SCH_H2O",
+   "value": "Proportion of schools with access to basic drinking water",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_PRM_H2O",
+   "value": "Proportion of schools with access to basic drinking water, primary level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_LSC_H2O",
+   "value": "Proportion of schools with access to basic drinking water, lower secondary level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_SCH_ELECT",
+   "value": "Proportion of schools with access to electricity",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_PRM_ELECT",
+   "value": "Proportion of schools with access to electricity, primary level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_PLS_ELECT",
+   "value": "Proportion of schools with access to electricity, primary and lower secondary level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_PRS_ELECT",
+   "value": "Proportion of schools with access to electricity, primary and secondary level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_LSC_ELECT",
+   "value": "Proportion of schools with access to electricity, lower secondary level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_USC_ELECT",
+   "value": "Proportion of schools with access to electricity, upper secondary level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_SEC_ELECT",
+   "value": "Proportion of schools with access to electricity, secondary combined level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_PRM_INTNT",
+   "value": "Proportion of schools with access to the internet for pedagogical purposes, primary level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_PRS_INTNT",
+   "value": "Proportion of schools with access to the internet for pedagogical purposes, primary and secondary level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_LSC_INTNT",
+   "value": "Proportion of schools with access to the internet for pedagogical purposes, lower secondary level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_USC_INTNT",
+   "value": "Proportion of schools with access to the internet for pedagogical purposes, upper secondary level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_SEC_INTNT",
+   "value": "Proportion of schools with access to the internet for pedagogical purposes, secondary combined level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_PRM_CMPTR",
+   "value": "Proportion of schools with access to computers for pedagogical purposes, primary level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_PRS_CMPTR",
+   "value": "Proportion of schools with access to computers for pedagogical purposes, primary and secondary level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_LSC_CMPTR",
+   "value": "Proportion of schools with access to computers for pedagogical purposes, lower secondary level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_USC_CMPTR",
+   "value": "Proportion of schools with access to computers for pedagogical purposes, upper secondary level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_SEC_CMPTR",
+   "value": "Proportion of schools with access to computers for pedagogical purposes, secondary combined level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_LSC_SANIT",
+   "value": "Proportion of schools with access to single-sex basic sanitation, primary level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_SCH_SANIT",
+   "value": "Proportion of schools with access to single-sex basic sanitation, lower secondary level",
+   "type": "Series",
+   "parent": "4.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_TOF_SCHIPSL",
+   "value": "Total official flows for scholarships, by recipient",
+   "type": "Series",
+   "parent": "4.b.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_TOF_SCHIPSP",
+   "value": "Total official flows for scholarships, by recipient, as a percentage of donors' sector-allocable total official flows",
+   "type": "Series",
+   "parent": "4.b.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SE_PRE_TRTCHRTCH",
+   "value": "Proportion of teachers in pre-primary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country",
+   "type": "Series",
+   "parent": "4.c.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_PRM_TRTCHRTCH",
+   "value": "Proportion of teachers in primary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country",
+   "type": "Series",
+   "parent": "4.c.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_LSC_TRTCHRTCH",
+   "value": "Proportion of teachers in lower secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country",
+   "type": "Series",
+   "parent": "4.c.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_USC_TRTCHRTCH",
+   "value": "Proportion of teachers in upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country",
+   "type": "Series",
+   "parent": "4.c.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SE_SEC_TRTCHRTCH",
+   "value": "Proportion of teachers in secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country",
+   "type": "Series",
+   "parent": "4.c.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SP_DYN_MRBF15",
+   "value": "Proportion of women aged 20-24 years who were married by age 15",
+   "type": "Series",
+   "parent": "5.3.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SP_DYN_MRBF18",
+   "value": "Proportion of women aged 20-24 years who were married by age 18",
+   "type": "Series",
+   "parent": "5.3.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_STA_FGMS",
+   "value": "Proportion of girls aged 15-19 who have undergone FGM/C",
+   "type": "Series",
+   "parent": "5.3.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SL_DOM_TSPD",
+   "value": "Time spent on unpaid domestic and care work",
+   "type": "Series",
+   "parent": "5.4.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_GEN_PARL",
+   "value": "Proportion of seats held by women in national parliaments",
+   "type": "Series",
+   "parent": "5.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "IC_GEN_MGTN",
+   "value": "Proportion of women in managerial positions",
+   "type": "Series",
+   "parent": "5.5.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SH_H2O_IMPR",
+   "value": "Proportion of population using improved drinking water sources",
+   "type": "Series",
+   "parent": "6.1.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SH_SAN_IMPR",
+   "value": "Proportion of population using improved sanitation facilities",
+   "type": "Series",
+   "parent": "6.2.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "ER_H2O_STRESS",
+   "value": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
+   "type": "Series",
+   "parent": "6.4.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "ER_H2O_INTG",
+   "value": "Proportion of countries that have fully implemented national integrated water resources management plans or equivalent",
+   "type": "Series",
+   "parent": "6.5.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "ER_H2O_INTGAD",
+   "value": "Proportion of countries that are at advanced stage of implementation of national integrated water resources management plans or equivalent",
+   "type": "Series",
+   "parent": "6.5.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "ER_H2O_INTGSD",
+   "value": "Proportion of countries that have started implementing national integrated water resources management plans or equivalent",
+   "type": "Series",
+   "parent": "6.5.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "ER_H2O_INTGDV",
+   "value": "Proportion of countries that have developed but are not yet implementing national integrated water resources management plans or equivalent",
+   "type": "Series",
+   "parent": "6.5.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "ER_H2O_INTGUD",
+   "value": "Proportion of countries where national integrated water resources management plans or equivalent are under development",
+   "type": "Series",
+   "parent": "6.5.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "ER_H2O_INTGNA",
+   "value": "Proportion of countries where national integrated water resources management plans or equivalent are not relevant",
+   "type": "Series",
+   "parent": "6.5.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "DC_TOF_WASHL",
+   "value": "Total official flows for water supply and sanitation, by recipient",
+   "type": "Series",
+   "parent": "6.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_TOF_WASHP",
+   "value": "Total official flows for water supply and sanitation, by recipient, as a percentage of donors' sector-allocable total official flows",
+   "type": "Series",
+   "parent": "6.a.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "ER_H2O_PROCED",
+   "value": "Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in water management",
+   "type": "Series",
+   "parent": "6.b.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "ER_SAN_PROCED",
+   "value": "Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in sanitation management",
+   "type": "Series",
+   "parent": "6.b.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "ER_HYG_PROCED",
+   "value": "Proportion of countries with clearly defined procedures in law or policy for participation by service users/communities in planning program in hygiene promotion",
+   "type": "Series",
+   "parent": "6.b.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "ER_H2O_PARTIC",
+   "value": "Proportion of countries with high level of users/communities participating in planning programs in water management",
+   "type": "Series",
+   "parent": "6.b.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "ER_SAN_PARTIC",
+   "value": "Proportion of countries with high level of users/communities participating in planning programs in sanitation management",
+   "type": "Series",
+   "parent": "6.b.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "ER_HYG_PARTIC",
+   "value": "Proportion of countries with high level of users/communities participating in planning programs in hygiene promotion",
+   "type": "Series",
+   "parent": "6.b.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "EG_ELC_ACCS",
+   "value": "Proportion of population with access to electricity",
+   "type": "Series",
+   "parent": "7.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "EG_EGY_CLEAN",
+   "value": "Proportion of population with primary reliance on clean fuels and technology",
+   "type": "Series",
+   "parent": "7.1.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "EG_FEC_RNEW",
+   "value": "Renewable energy share in the total final energy consumption",
+   "type": "Series",
+   "parent": "7.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "EG_EGY_PRIM",
+   "value": "Energy intensity level of primary energy",
+   "type": "Series",
+   "parent": "7.3.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SL_EMP_PCAP",
+   "value": "Growth rate of real GDP per employed person",
+   "type": "Series",
+   "parent": "8.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "EN_MAT_FTPRTN",
+   "value": "Material footprint",
+   "type": "Series",
+   "parent": "8.4.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "EN_MAT_FTPRPC",
+   "value": "Material footprint per capita",
+   "type": "Series",
+   "parent": "8.4.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "EN_MAT_FTPRPG",
+   "value": "Material footprint per unit of GDP",
+   "type": "Series",
+   "parent": "8.4.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "EN_MAT_DOMCMPT",
+   "value": "Domestic material consumption",
+   "type": "Series",
+   "parent": "8.4.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "EN_MAT_DOMCMPC",
+   "value": "Domestic material consumption per capita",
+   "type": "Series",
+   "parent": "8.4.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "EN_MAT_DOMCMPG",
+   "value": "Domestic material consumption per unit of GDP",
+   "type": "Series",
+   "parent": "8.4.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SL_TLF_UEM",
+   "value": "Unemployment rate",
+   "type": "Series",
+   "parent": "8.5.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SL_TLF_NEET",
+   "value": "Proportion of youth not in education, employment or training",
+   "type": "Series",
+   "parent": "8.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SL_TLF_CHDLBR",
+   "value": "Proportion of children aged 5-17 years engaged in labour",
+   "type": "Series",
+   "parent": "8.7.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SL_TLF_CHDHAZ",
+   "value": "Proportion of children aged 5-17 years engaged in hazardous work",
+   "type": "Series",
+   "parent": "8.7.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SL_TLF_CHD",
+   "value": "Proportion of children aged 5-17 years in employment",
+   "type": "Series",
+   "parent": "8.7.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SL_TLF_CHDLBRN",
+   "value": "Number of children aged 5-17 years engaged in labour",
+   "type": "Series",
+   "parent": "8.7.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SL_TLF_CHDHAZN",
+   "value": "Number of children aged 5-17 years engaged in hazardous work",
+   "type": "Series",
+   "parent": "8.7.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SL_TLF_CHDN",
+   "value": "Number of children aged 5-17 years in employment",
+   "type": "Series",
+   "parent": "8.7.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "NY_GDP_PCAP",
+   "value": "Growth rate of real GDP per capita",
+   "type": "Series",
+   "parent": "8.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "FB_BNK_ACCSS",
+   "value": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider",
+   "type": "Series",
+   "parent": "8.10.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_TOF_TRDDBML",
+   "value": "Total official flows disbursed for Aid for Trade, by recipient",
+   "type": "Series",
+   "parent": "8.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_TOF_TRDDBMDL",
+   "value": "Total official flows disbursed for Aid for Trade, by donor",
+   "type": "Series",
+   "parent": "8.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_TOF_TRDDBMP",
+   "value": "Total official flows disbursed for Aid for Trade, by recipient, as a percentage of donors' sector-allocable total official flows",
+   "type": "Series",
+   "parent": "8.a.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "DC_TOF_TRDCML",
+   "value": "Total official flows commitments for Aid for Trade, by recipient",
+   "type": "Series",
+   "parent": "8.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_TOF_TRDCMDL",
+   "value": "Total official flows commitments for Aid for Trade, by donor",
+   "type": "Series",
+   "parent": "8.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_TOF_TRDCMP",
+   "value": "Total official flows commitments for Aid for Trade, by recipient, as a percentage of donors' sector-allocable total official flows",
+   "type": "Series",
+   "parent": "8.a.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "IS_TRP_PSSGR",
+   "value": "Passenger volume, by air transport",
+   "type": "Series",
+   "parent": "9.1.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "IS_TRP_FRGHT",
+   "value": "Freight volume, by air transport",
+   "type": "Series",
+   "parent": "9.1.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "NV_IND_MANF",
+   "value": "Manufacturing value added share in GDP at constant 2010 United States dollars",
+   "type": "Series",
+   "parent": "9.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "NV_IND_MANFPC",
+   "value": "Manufacturing value added per capita at constant 2010 United States dollars",
+   "type": "Series",
+   "parent": "9.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SL_TLF_MANF",
+   "value": "Manufacturing employment as a proportion of total employment",
+   "type": "Series",
+   "parent": "9.2.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "EN_ATM_CO2GDP",
+   "value": "Emissions of carbon dioxide per unit of GDP (PPP)",
+   "type": "Series",
+   "parent": "9.4.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "EN_ATM_CO2",
+   "value": "Emissions of carbon dioxide",
+   "type": "Series",
+   "parent": "9.4.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "EN_ATM_CO2MVA",
+   "value": "Emissions of carbon dioxide per unit of Manufacturing Value Added",
+   "type": "Series",
+   "parent": "9.4.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "GB_XPD_RSDV",
+   "value": "Research and development (R&D) expenditure as a proportion of GDP",
+   "type": "Series",
+   "parent": "9.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "GB_POP_SCIERD",
+   "value": "Researchers (in full-time equivalent) per million inhabitants",
+   "type": "Series",
+   "parent": "9.5.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_TOF_INFRAL",
+   "value": "Total official flows for infrastructure, by recipient",
+   "type": "Series",
+   "parent": "9.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_TOF_INFRAP",
+   "value": "Total official flows for infrastructure, by recipient, as a percentage of donors' sector-allocable total official flows",
+   "type": "Series",
+   "parent": "9.a.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "NV_IND_TECH",
+   "value": "Proportion of medium and high-tech industry value added in total value added",
+   "type": "Series",
+   "parent": "9.b.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "IT_MOB_NETWK",
+   "value": "Proportion of population covered by a mobile network",
+   "type": "Series",
+   "parent": "9.c.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "IT_MOB_2GNTWK",
+   "value": "Proportion of population covered by a 2G mobile network",
+   "type": "Series",
+   "parent": "9.c.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "IT_MOB_3GNTWK",
+   "value": "Proportion of population covered by a 3G mobile network",
+   "type": "Series",
+   "parent": "9.c.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SI_HEI_TOTL",
+   "value": "Growth rates of household expenditure or income per capita",
+   "type": "Series",
+   "parent": "10.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SI_HEI_BTN40",
+   "value": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population",
+   "type": "Series",
+   "parent": "10.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SL_EMP_GTOTL",
+   "value": "Labour share of GDP, comprising wages and social protection transfers",
+   "type": "Series",
+   "parent": "10.4.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRAFDB",
+   "value": "Proportion of developing countries in the membership of the African Development Bank",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRADB",
+   "value": "Proportion of developing countries in the membership of the Asian Development Bank",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRFSB",
+   "value": "Proportion of developing countries in the membership of the African Development Bank",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRIABD",
+   "value": "Proportion of developing countries in the membership of the Inter-American Development Bank",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRIBRD",
+   "value": "Proportion of developing countries in the membership of the International Bank for Reconstruction and Development",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRIFC",
+   "value": "Proportion of developing countries in the membership of the International Finance Corporation",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRIMF",
+   "value": "Proportion of developing countries in the membership of the International Monetary Fund",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRECOSOC",
+   "value": "Proportion of developing countries in the membership of the UN Economic and Social Council",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRUNGA",
+   "value": "Proportion of developing countries in the membership of the UN General Assembly",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRUNSC",
+   "value": "Proportion of developing countries in the membership of the UN Security Council",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRWTO",
+   "value": "Proportion of developing countries in the membership of the World Trade Organisation",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTAFDB",
+   "value": "Proportion of voting rights of developing countries in the African Development Bank",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTADB",
+   "value": "Proportion of voting rights of developing countries in the Asian Development Bank",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTFSB",
+   "value": "Proportion of voting rights of developing countries in the African Development Bank",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTIABD",
+   "value": "Proportion of voting rights of developing countries in the Inter-American Development Bank",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTIBRD",
+   "value": "Proportion of voting rights of developing countries in the International Bank for Reconstruction and Development",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTIFC",
+   "value": "Proportion of voting rights of developing countries in the International Finance Corporation",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTIMF",
+   "value": "Proportion of voting rights of developing countries in the International Monetary Fund",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTECOSOC",
+   "value": "Proportion of voting rights of developing countries in the UN Economic and Social Council",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTUNGA",
+   "value": "Proportion of voting rights of developing countries in the UN General Assembly",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTUNSC",
+   "value": "Proportion of voting rights of developing countries in the UN Security Council",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTWTO",
+   "value": "Proportion of voting rights of developing countries in the World Trade Organisation",
+   "type": "Series",
+   "parent": "10.6.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "TM_TRF_ZERO",
+   "value": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff",
+   "type": "Series",
+   "parent": "10.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_TRF_TOTL",
+   "value": "Total assistance for development, by recipient",
+   "type": "Series",
+   "parent": "10.b.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_TRF_TOTDL",
+   "value": "Total assistance for development, by donor",
+   "type": "Series",
+   "parent": "10.b.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SI_RMT_COST",
+   "value": "Remittance costs as a proportion of the amount remitted",
+   "type": "Series",
+   "parent": "10.c.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "EN_LND_SLUM",
+   "value": "Proportion of urban population living in slums",
+   "type": "Series",
+   "parent": "11.1.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "EN_LND_SLUMN",
+   "value": "Number of urban population living in slums",
+   "type": "Series",
+   "parent": "11.1.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "VC_DSR_AFFCT",
+   "value": "Number of persons affected by disaster per 100,000 people",
+   "type": "Series",
+   "parent": "11.5.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "VC_DSR_MORT",
+   "value": "Number of deaths due to disaster",
+   "type": "Series",
+   "parent": "11.5.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "VC_DSR_MISS",
+   "value": "Missing persons due to disaster",
+   "type": "Series",
+   "parent": "11.5.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "VC_DSR_GDPLS",
+   "value": "Direct disaster economic loss in relation to global GDP",
+   "type": "Series",
+   "parent": "11.5.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "EN_ATM_PM25",
+   "value": "Annual mean levels of fine particulate matter (PM2.5) in cities (population weighted)",
+   "type": "Series",
+   "parent": "11.6.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_DSR_NLRRS",
+   "value": "National and local disaster risk reduction strategies",
+   "type": "Series",
+   "parent": "11.b.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "EN_MAT_FTPRTN",
+   "value": "Material footprint",
+   "type": "Series",
+   "parent": "12.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "EN_MAT_FTPRPC",
+   "value": "Material footprint per capita",
+   "type": "Series",
+   "parent": "12.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "EN_MAT_FTPRPG",
+   "value": "Material footprint per unit of GDP",
+   "type": "Series",
+   "parent": "12.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "EN_MAT_DOMCMPT",
+   "value": "Domestic material consumption",
+   "type": "Series",
+   "parent": "12.2.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "EN_MAT_DOMCMPC",
+   "value": "Domestic material consumption per capita",
+   "type": "Series",
+   "parent": "12.2.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "EN_MAT_DOMCMPG",
+   "value": "Domestic material consumption per unit of GDP",
+   "type": "Series",
+   "parent": "12.2.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_HAZ_BASEL",
+   "value": "Number of countries party to the Basel Convention on hazardous waste and other chemicals",
+   "type": "Series",
+   "parent": "12.4.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SG_HAZ_ROTDAM",
+   "value": "Number of countries party to the Rotterdam Convention on hazardous waste and other chemicals",
+   "type": "Series",
+   "parent": "12.4.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SG_HAZ_STHOLM",
+   "value": "Number of countries party to the Stockholm Convention on hazardous waste and other chemicals",
+   "type": "Series",
+   "parent": "12.4.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SG_HAZ_ONECNV",
+   "value": "Number of countries party to one convention on hazardous waste and other chemicals",
+   "type": "Series",
+   "parent": "12.4.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SG_HAZ_TWOCNV",
+   "value": "Number of countries party to two conventions on hazardous waste and other chemicals",
+   "type": "Series",
+   "parent": "12.4.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SG_HAZ_ALLCNV",
+   "value": "Number of countries party to all three conventions on hazardous waste and other chemicals",
+   "type": "Series",
+   "parent": "12.4.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "VC_DSR_AFFCT",
+   "value": "Number of persons affected by disaster per 100,000 people",
+   "type": "Series",
+   "parent": "13.1.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "VC_DSR_MORT",
+   "value": "Number of deaths due to disaster",
+   "type": "Series",
+   "parent": "13.1.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "VC_DSR_MISS",
+   "value": "Missing persons due to disaster",
+   "type": "Series",
+   "parent": "13.1.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SG_DSR_NLRRS",
+   "value": "National and local disaster risk reduction strategies",
+   "type": "Series",
+   "parent": "13.1.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "ER_H2O_FWTL",
+   "value": "Proportion of fish stocks within biologically sustainable levels",
+   "type": "Series",
+   "parent": "14.4.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "ER_MRN_MPA",
+   "value": "Coverage of protected areas in relation to marine areas",
+   "type": "Series",
+   "parent": "14.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "AG_LND_FRST",
+   "value": "Forest area as a proportion of total land area",
+   "type": "Series",
+   "parent": "15.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "ER_PTD_TERR",
+   "value": "Proportion of important sites for terrestrial biodiversity that are covered by protected areas",
+   "type": "Series",
+   "parent": "15.1.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "ER_PTD_FRHWTR",
+   "value": "Proportion of important sites for freshwater biodiversity that are covered by protected areas",
+   "type": "Series",
+   "parent": "15.1.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "ER_PTD_MTN",
+   "value": "Coverage by protected areas of important sites for mountain biodiversity",
+   "type": "Series",
+   "parent": "15.4.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "ER_RSK_LST",
+   "value": "Red List Index",
+   "type": "Series",
+   "parent": "15.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "ER_RSK_LST_LB",
+   "value": "Red List Index (lower bound)",
+   "type": "Series",
+   "parent": "15.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "ER_RSK_LST_UB",
+   "value": "Red List Index (upper bound)",
+   "type": "Series",
+   "parent": "15.5.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_ODA_BDVL",
+   "value": "Total official development assistance for biodiversity, by recipient",
+   "type": "Series",
+   "parent": "15.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_ODA_BDVDL",
+   "value": "Total official development assistance for biodiversity, by donor",
+   "type": "Series",
+   "parent": "15.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_ODA_BDVP",
+   "value": "Total official development assistance for biodiversity, by recipient, as a percentage of donors' sector-allocable total official flows",
+   "type": "Series",
+   "parent": "15.a.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "DC_ODA_BDVL",
+   "value": "Total official development assistance for biodiversity, by recipient",
+   "type": "Series",
+   "parent": "15.b.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_ODA_BDVDL",
+   "value": "Total official development assistance for biodiversity, by donor",
+   "type": "Series",
+   "parent": "15.b.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_ODA_BDVP",
+   "value": "Total official development assistance for biodiversity, by recipient, as a percentage of donors' sector-allocable total official flows",
+   "type": "Series",
+   "parent": "15.b.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "VC_IHR_PSRC",
+   "value": "Number of victims of intentional homicide per 100,000 population",
+   "type": "Series",
+   "parent": "16.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "VC_IHR_PSRC_LB",
+   "value": "Number of victims of intentional homicide per 100,000 population (lower bound)",
+   "type": "Series",
+   "parent": "16.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "VC_IHR_PSRC_UB",
+   "value": "Number of victims of intentional homicide per 100,000 population (upper bound)",
+   "type": "Series",
+   "parent": "16.1.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "VC_IHR_PSRCN",
+   "value": "Number of victims of intentional homicide",
+   "type": "Series",
+   "parent": "16.1.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "VC_IHR_PSRCN_LB",
+   "value": "Number of victims of intentional homicide (lower bound)",
+   "type": "Series",
+   "parent": "16.1.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "VC_IHR_PSRCN_UB",
+   "value": "Number of victims of intentional homicide (upper bound)",
+   "type": "Series",
+   "parent": "16.1.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "VC_VAW_PHYPYV",
+   "value": "Proportion of children aged 1-14 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month",
+   "type": "Series",
+   "parent": "16.2.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "VC_VAW_SXVLN",
+   "value": "Proportion of young women and men aged 18-29 years who experienced sexual violence by ageë_18",
+   "type": "Series",
+   "parent": "16.2.3",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "VC_PRS_UNSEC",
+   "value": "Unsentenced detainees as a proportion of overall prison population",
+   "type": "Series",
+   "parent": "16.3.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "IC_FRM_BRIB",
+   "value": "Proportion of firms experiencing at least one bribe payment request",
+   "type": "Series",
+   "parent": "16.5.2",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SG_INT_MBRAFDB",
+   "value": "Proportion of developing countries in the membership of the African Development Bank",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRADB",
+   "value": "Proportion of developing countries in the membership of the Asian Development Bank",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRFSB",
+   "value": "Proportion of developing countries in the membership of the African Development Bank",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRIABD",
+   "value": "Proportion of developing countries in the membership of the Inter-American Development Bank",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRIBRD",
+   "value": "Proportion of developing countries in the membership of the International Bank for Reconstruction and Development",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRIFC",
+   "value": "Proportion of developing countries in the membership of the International Finance Corporation",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRIMF",
+   "value": "Proportion of developing countries in the membership of the International Monetary Fund",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRECOSOC",
+   "value": "Proportion of developing countries in the membership of the UN Economic and Social Council",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRUNGA",
+   "value": "Proportion of developing countries in the membership of the UN General Assembly",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRUNSC",
+   "value": "Proportion of developing countries in the membership of the UN Security Council",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_MBRWTO",
+   "value": "Proportion of developing countries in the membership of the World Trade Organisation",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTAFDB",
+   "value": "Proportion of voting rights of developing countries in the African Development Bank",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTADB",
+   "value": "Proportion of voting rights of developing countries in the Asian Development Bank",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTFSB",
+   "value": "Proportion of voting rights of developing countries in the African Development Bank",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTIABD",
+   "value": "Proportion of voting rights of developing countries in the Inter-American Development Bank",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTIBRD",
+   "value": "Proportion of voting rights of developing countries in the International Bank for Reconstruction and Development",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTIFC",
+   "value": "Proportion of voting rights of developing countries in the International Finance Corporation",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTIMF",
+   "value": "Proportion of voting rights of developing countries in the International Monetary Fund",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTECOSOC",
+   "value": "Proportion of voting rights of developing countries in the UN Economic and Social Council",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTUNGA",
+   "value": "Proportion of voting rights of developing countries in the UN General Assembly",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTUNSC",
+   "value": "Proportion of voting rights of developing countries in the UN Security Council",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_INT_VRTWTO",
+   "value": "Proportion of voting rights of developing countries in the World Trade Organisation",
+   "type": "Series",
+   "parent": "16.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_REG_BRTH",
+   "value": "Proportion of births registered with a civil authority",
+   "type": "Series",
+   "parent": "16.9.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "VC_VAW_MTUHRA",
+   "value": "Number of cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in last 12 months",
+   "type": "Series",
+   "parent": "16.10.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SG_NHR_IMPL",
+   "value": "Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles",
+   "type": "Series",
+   "parent": "16.a.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_NHR_INTEXST",
+   "value": "Proportion of countries that applied for accreditation as independent National Human Rights Institutions in compliance with the Paris Principles",
+   "type": "Series",
+   "parent": "16.a.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "DC_ODA_TOTL",
+   "value": "Net official development assistance (ODA) from OECD-DAC countries, by donor",
+   "type": "Series",
+   "parent": "17.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_ODA_TOTG",
+   "value": "Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI, by donor",
+   "type": "Series",
+   "parent": "17.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_ODA_LDCS",
+   "value": "Net official development assistance (ODA) to LCDs from OECD-DAC countries, by donor",
+   "type": "Series",
+   "parent": "17.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_ODA_LDCG",
+   "value": "Net official development assistance (ODA) to LDCs as a percentage of OECD-DAC donors' GNI, by donor",
+   "type": "Series",
+   "parent": "17.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_ODA_LLDC",
+   "value": "Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries, by donor",
+   "type": "Series",
+   "parent": "17.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_ODA_LLDCG",
+   "value": "Net official development assistance (ODA) to landlocked developing countries as a percentage of OECD-DAC donors' GNI, by donor",
+   "type": "Series",
+   "parent": "17.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_ODA_SIDS",
+   "value": "Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor",
+   "type": "Series",
+   "parent": "17.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_ODA_SIDSG",
+   "value": "Net official development assistance (ODA) to small island states (SIDS) as a percentage of OECD-DAC donors' GNI, by donor",
+   "type": "Series",
+   "parent": "17.2.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "BX_TRF_PWKR",
+   "value": "Volume of remittances (in United States dollars) as a proportion of total GDP",
+   "type": "Series",
+   "parent": "17.3.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DT_TDS_DECT",
+   "value": "Debt service as a proportion of exports of goods and services",
+   "type": "Series",
+   "parent": "17.4.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "IT_NET_BBND",
+   "value": "Fixed Internet broadband Subscriptions per 100 inhabitants",
+   "type": "Series",
+   "parent": "17.6.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "IT_USE_ii99",
+   "value": "Proportion of individuals using the Internet",
+   "type": "Series",
+   "parent": "17.8.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "DC_FTA_TOTAL",
+   "value": "Dollar value of financial and technical assistance (including through North-South, South-South and triangular cooperation) disbursed to developing countries",
+   "type": "Series",
+   "parent": "17.9.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "TM_TAX_MRCHWMFN",
+   "value": "Worldwide weighted tariff-average of all products, under the most-favoured-nation status",
+   "type": "Series",
+   "parent": "17.10.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "TM_TAX_MRCHWMPS",
+   "value": "Worldwide weighted tariff-average of all products, under the preferential status",
+   "type": "Series",
+   "parent": "17.10.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "TM_TAX_MAGRWMFN",
+   "value": "Worldwide weighted tariff-average of agriculture products, under the most-favoured-nation status",
+   "type": "Series",
+   "parent": "17.10.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "TM_TAX_MAGRWMPS",
+   "value": "Worldwide weighted tariff-average of agriculture products, under the preferential status",
+   "type": "Series",
+   "parent": "17.10.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "TM_TAX_ARMWMFN",
+   "value": "Worldwide weighted tariff-average of arms, under the most-favoured-nation status",
+   "type": "Series",
+   "parent": "17.10.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "TM_TAX_ARMWMPS",
+   "value": "Worldwide weighted tariff-average of arms, under the preferential status",
+   "type": "Series",
+   "parent": "17.10.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "TM_TAX_CLHWMFN",
+   "value": "Worldwide weighted tariff-average of clothing, under the most-favoured-nation status",
+   "type": "Series",
+   "parent": "17.10.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "TM_TAX_CLHWMPS",
+   "value": "Worldwide weighted tariff-average of clothing, under the preferential status",
+   "type": "Series",
+   "parent": "17.10.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "TM_TAX_INDWMFN",
+   "value": "Worldwide weighted tariff-average of industrial products, under the most-favoured-nation status",
+   "type": "Series",
+   "parent": "17.10.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "TM_TAX_INDWMPS",
+   "value": "Worldwide weighted tariff-average of industrial products, under the preferential status",
+   "type": "Series",
+   "parent": "17.10.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "TM_TAX_OILWMFN",
+   "value": "Worldwide weighted tariff-average of oil, under the most-favoured-nation status",
+   "type": "Series",
+   "parent": "17.10.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "TM_TAX_OILWMPS",
+   "value": "Worldwide weighted tariff-average of oil, under the preferential status",
+   "type": "Series",
+   "parent": "17.10.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "TM_TAX_TXLWMFN",
+   "value": "Worldwide weighted tariff-average of textiles, under the most-favoured-nation status",
+   "type": "Series",
+   "parent": "17.10.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "TM_TAX_TXLWMPS",
+   "value": "Worldwide weighted tariff-average of textiles, under the preferential status",
+   "type": "Series",
+   "parent": "17.10.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "TX_EXP_GBSVR",
+   "value": "Share of global services exports",
+   "type": "Series",
+   "parent": "17.11.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "TX_EXP_GBMRCH",
+   "value": "Share of global merchandise exports",
+   "type": "Series",
+   "parent": "17.11.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "TM_TAX_MRCHSMFN",
+   "value": "Average tariffs faced by developing countries, least developed countries and small island developing States, under the most-favoured-nation status",
+   "type": "Series",
+   "parent": "17.12.1",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "TM_TAX_MRCHSMPS",
+   "value": "Average tariffs faced by developing countries, least developed countries and small island developing States, under the preferential status",
+   "type": "Series",
+   "parent": "17.12.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_STT_NSDS",
+   "value": "Number of countries with a national statistical plan that is fully funded and under implementation",
+   "type": "Series",
+   "parent": "17.18.3",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_STT_NSDSCPL",
+   "value": "Number of countries with national statistical plans that are completed and awaiting adoption",
+   "type": "Series",
+   "parent": "17.18.3",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SG_STT_NSDSDGN",
+   "value": "Number of countries with national statistical plans that are expired or without a plan and are currently designing or planning",
+   "type": "Series",
+   "parent": "17.18.3",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SG_STT_NSDSEXP",
+   "value": "Number of countries with national statistical plans that are expired",
+   "type": "Series",
+   "parent": "17.18.3",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SG_STT_NSDSDNE",
+   "value": "Number of countries with national statistical plans that do not exist",
+   "type": "Series",
+   "parent": "17.18.3",
+   "isOfficial": "FALSE"
+ },
+ {
+   "name": "SG_STT_CAPTY",
+   "value": "Dollar value of all resources made available to strengthen statistical capacity in developing countries",
+   "type": "Series",
+   "parent": "17.19.1",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_REG_CENSUS",
+   "value": "Proportion of countries that have conducted at least one population and housing census in the last 10 years",
+   "type": "Series",
+   "parent": "17.19.2",
+   "isOfficial": "TRUE"
+ },
+ {
+   "name": "SG_REG_CENSUSN",
+   "value": "Number of countries that have conducted at least one population and housing census in the last 10 years",
+   "type": "Series",
+   "parent": "17.19.2",
+   "isOfficial": "FALSE"
+ }
+]

@@ -1,0 +1,686 @@
+
+/* Goal 1 colors */
+img.goal1 {
+    background-image: url(../img/1_sprite.svg);
+}
+
+img.goal1:hover,
+p.goal1 {
+    color: #DA1B3D;
+    border-color: #DA1B3D;
+    
+}
+
+p.goal1.selected {
+    background-color: #DA1B3D;
+    color: white;
+}
+
+
+p.goal1:hover {
+    background-color: #DA1B3D;
+    
+}
+
+g.goal1 g.partial rect {
+    stroke: #DA1B3D;
+    fill: #fff;
+}
+
+g.goal1 g.partial text {
+    fill: #DA1B3D;
+}
+
+g.goal1 g.full rect {
+    stroke: #fff;
+    fill: #DA1B3D;
+}
+
+g.goal1 g.full text {
+    fill: #fff;
+}
+
+
+/* Goal 2 colors */
+img.goal2 {
+    background-image: url(../img/2_sprite.svg);
+}
+
+img.goal2:hover,
+p.goal2 {
+    color: #D5A73F;
+    border-color: #D5A73F;
+    
+}
+
+p.goal2.selected {
+    background-color: #D5A73F;
+    color: white;
+}
+
+p.goal2:hover {
+    background-color: #D5A73F;
+    
+}
+
+g.goal2 g.partial rect {
+    stroke: #D5A73F;
+    fill: #fff;
+}
+
+g.goal2 g.partial text {
+    fill: #D5A73F;
+}
+
+g.goal2 g.full rect {
+    stroke: #fff;
+    fill: #D5A73F;
+}
+
+g.goal2 g.full text {
+    fill: #fff;
+}
+
+/* Goal 3 colors */
+
+img.goal3 {
+    background-image: url(../img/3_sprite.svg);
+}
+
+img.goal3:hover,
+p.goal3 {
+    color: #54A249;
+    border-color: #54A249;
+    
+}
+
+p.goal3.selected {
+    background-color: #54A249;
+    color: white;
+}
+
+p.goal3:hover {
+    background-color: #54A249;
+    
+}
+
+g.goal3 g.partial rect {
+    stroke: #54A249;
+    fill: #fff;
+}
+
+g.goal3 g.partial text {
+    fill: #54A249;
+}
+
+g.goal3 g.full rect {
+    stroke: #fff;
+    fill: #54A249;
+}
+
+g.goal3 g.full text {
+    fill: #fff;
+}
+
+/* Goal 4 colors */
+
+img.goal4 {
+    background-image: url(../img/4_sprite.svg);
+}
+
+img.goal4:hover,
+p.goal4 {
+    color: #BD1B2F;
+    border-color: #BD1B2F;
+    
+}
+
+p.goal4.selected {
+    background-color: #BD1B2F;
+    color: white;
+}
+
+p.goal4:hover {
+    background-color: #BD1B2F;
+    
+}
+
+g.goal4 g.partial rect {
+    stroke: #BD1B2F;
+    fill: #fff;
+}
+
+g.goal4 g.partial text {
+    fill: #BD1B2F;
+}
+
+g.goal4 g.full rect {
+    stroke: #fff;
+    fill: #BD1B2F;
+}
+
+g.goal4 g.full text {
+    fill: #fff;
+}
+
+/* Goal 5 colors */
+img.goal5 {
+    background-image: url(../img/5_sprite.svg);
+}
+
+img.goal5:hover,
+p.goal5 {
+    color: #E23C2E;
+    border-color: #E23C2E;
+    
+}
+
+p.goal5.selected {
+    background-color: #E23C2E;
+    color: white;
+}
+
+p.goal5:hover {
+    background-color: #E23C2E;
+    
+}
+
+g.goal5 g.partial rect {
+    stroke: #E23C2E;
+    fill: #fff;
+}
+
+g.goal5 g.partial text {
+    fill: #E23C2E;
+}
+
+g.goal5 g.full rect {
+    stroke: #fff;
+    fill: #E23C2E;
+}
+
+g.goal5 g.full text {
+    fill: #fff;
+}
+
+/* Goal 6 colors */
+img.goal6 {
+    background-image: url(../img/6_sprite.svg);
+}
+
+img.goal6:hover,
+p.goal6 {
+    color: #55BFE5;
+    border-color: #55BFE5;
+    
+}
+
+p.goal6.selected {
+    background-color: #55BFE5;
+    color: white;
+}
+
+p.goal6:hover {
+    background-color: #55BFE5;
+    
+}
+
+g.goal6 g.partial rect {
+    stroke: #55BFE5;
+    fill: #fff;
+}
+
+g.goal6 g.partial text {
+    fill: #55BFE5;
+}
+
+g.goal6 g.full rect {
+    stroke: #fff;
+    fill: #55BFE5;
+}
+
+g.goal6 g.full text {
+    fill: #fff;
+}
+
+/* Goal 7 colors */
+img.goal7 {
+    background-image: url(../img/7_sprite.svg);
+}
+
+img.goal7:hover,
+p.goal7 {
+    color: #F2C424;
+    border-color: #F2C424;
+    
+}
+
+p.goal7.selected {
+    background-color: #F2C424;
+    color: white;
+}
+
+p.goal7:hover {
+    background-color: #F2C424;
+    
+}
+
+g.goal7 g.partial rect {
+    stroke: #F2C424;
+    fill: #fff;
+}
+
+g.goal7 g.partial text {
+    fill: #F2C424;
+}
+
+g.goal7 g.full rect {
+    stroke: #fff;
+    fill: #F2C424;
+}
+
+g.goal7 g.full text {
+    fill: #fff;
+}
+
+/* Goal 8 colors */
+img.goal8 {
+    background-image: url(../img/8_sprite.svg);
+}
+
+img.goal8:hover,
+p.goal8 {
+    color: #9B1844;
+    border-color: #9B1844;
+    
+}
+
+p.goal8.selected {
+    background-color: #9B1844;
+    color: white;
+}
+
+p.goal8:hover {
+    background-color: #9B1844;
+    
+}
+
+g.goal8 g.partial rect {
+    stroke: #9B1844;
+    fill: #fff;
+}
+
+g.goal8 g.partial text {
+    fill: #9B1844;
+}
+
+g.goal8 g.full rect {
+    stroke: #fff;
+    fill: #9B1844;
+}
+
+g.goal8 g.full text {
+    fill: #fff;
+}
+
+/* Goal 9 colors */
+
+img.goal9 {
+    background-image: url(../img/9_sprite.svg);
+}
+
+img.goal9:hover,
+p.goal9 {
+    color: #E76930;
+    border-color: #E76930;
+    
+}
+
+p.goal9.selected {
+    background-color: #E76930;
+    color: white;
+}
+
+p.goal9:hover {
+    background-color: #E76930;
+    
+}
+
+g.goal9 g.partial rect {
+    stroke: #E76930;
+    fill: #fff;
+}
+
+g.goal9 g.partial text {
+    fill: #E76930;
+}
+
+g.goal9 g.full rect {
+    stroke: #fff;
+    fill: #E76930;
+}
+
+g.goal9 g.full text {
+    fill: #fff;
+}
+
+/* Goal 10 colors */
+img.goal10 {
+    background-image: url(../img/10_sprite.svg);
+}
+
+img.goal10:hover,
+p.goal10 {
+    color: #D40667;
+    border-color: #D40667;
+    
+}
+
+p.goal10.selected {
+    background-color: #D40667;
+    color: white;
+}
+
+p.goal10:hover {
+    background-color: #D40667;
+    
+}
+
+g.goal10 g.partial rect {
+    stroke: #D40667;
+    fill: #fff;
+}
+
+g.goal10 g.partial text {
+    fill: #D40667;
+}
+
+g.goal10 g.full rect {
+    stroke: #fff;
+    fill: #D40667;
+}
+
+g.goal10 g.full text {
+    fill: #fff;
+}
+
+
+/* Goal 11 colors */
+img.goal11 {
+    background-image: url(../img/11_sprite.svg);
+}
+
+img.goal11:hover,
+p.goal11 {
+    color: #EE9D30;
+    border-color: #EE9D30;
+    
+}
+
+p.goal11.selected {
+    background-color: #EE9D30;
+    color: white;
+}
+
+p.goal11:hover {
+    background-color: #EE9D30;
+    
+}
+g.goal11 g.partial rect {
+    stroke: #EE9D30;
+    fill: #fff;
+}
+
+g.goal11 g.partial text {
+    fill: #EE9D30;
+}
+
+g.goal11 g.full rect {
+    stroke: #fff;
+    fill: #EE9D30;
+}
+
+g.goal11 g.full text {
+    fill: #fff;
+}
+
+
+/* Goal 12 colors */
+img.goal12 {
+    background-image: url(../img/12_sprite.svg);
+}
+
+img.goal12:hover,
+p.goal12 {
+    color: #B88D31;
+    border-color: #B88D31;
+    
+}
+
+p.goal12.selected {
+    background-color: #B88D31;
+    color: white;
+}
+
+p.goal12:hover {
+    background-color: #B88D31;
+    
+}
+g.goal12 g.partial rect {
+    stroke: #B88D31;
+    fill: #fff;
+}
+
+g.goal12 g.partial text {
+    fill: #B88D31;
+}
+
+g.goal12 g.full rect {
+    stroke: #fff;
+    fill: #B88D31;
+}
+
+g.goal12 g.full text {
+    fill: #fff;
+}
+
+/* Goal 13 colors */
+img.goal13 {
+    background-image: url(../img/13_sprite.svg);
+}
+
+img.goal13:hover,
+p.goal13 {
+    color: #468048;
+    border-color: #468048;
+    
+}
+
+p.goal13.selected {
+    background-color: #468048;
+    color: white;
+}
+
+p.goal13:hover {
+    background-color: #468048;
+    
+}
+
+g.goal13 g.partial rect {
+    stroke: #468048;
+    fill: #fff;
+}
+
+g.goal13 g.partial text {
+    fill: #468048;
+}
+
+g.goal13 g.full rect {
+    stroke: #fff;
+    fill: #468048;
+}
+
+g.goal13 g.full text {
+    fill: #fff;
+}
+
+/* Goal 14 colors */
+img.goal14 {
+    background-image: url(../img/14_sprite.svg);
+}
+
+img.goal14:hover,
+p.goal14 {
+    color: #4897D3;
+    border-color: #4897D3;
+    
+}
+
+p.goal14.selected {
+    background-color: #4897D3;
+    color: white;
+}
+
+p.goal14:hover {
+    background-color: #4897D3;
+    
+}
+
+g.goal14 g.partial rect {
+    stroke: #4897D3;
+    fill: #fff;
+}
+
+g.goal14 g.partial text {
+    fill: #4897D3;
+}
+
+g.goal14 g.full rect {
+    stroke: #fff;
+    fill: #4897D3;
+}
+
+g.goal14 g.full text {
+    fill: #fff;
+}
+
+/* Goal 15 colors */
+img.goal15 {
+    background-image: url(../img/15_sprite.svg);
+}
+
+img.goal15:hover,
+p.goal15 {
+    color: #62BB4C;
+    border-color: #62BB4C;
+    
+}
+
+p.goal15.selected {
+    background-color: #62BB4C;
+    color: white;
+}
+
+p.goal15:hover {
+    background-color: #62BB4C;
+    
+}
+
+g.goal15 g.partial rect {
+    stroke: #62BB4C;
+    fill: #fff;
+}
+
+g.goal15 g.partial text {
+    fill: #62BB4C;
+}
+
+g.goal15 g.full rect {
+    stroke: #fff;
+    fill: #62BB4C;
+}
+
+g.goal15 g.full text {
+    fill: #fff;
+}
+
+/* Goal 16 colors */
+img.goal16 {
+    background-image: url(../img/16_sprite.svg);
+}
+
+img.goal16:hover,
+p.goal16 {
+    color: #326A9E;
+    border-color: #326A9E;
+    
+}
+
+p.goal16.selected {
+    background-color: #326A9E;
+    color: white;
+}
+
+p.goal16:hover {
+    background-color: #326A9E;
+    
+}
+
+g.goal16 g.partial rect {
+    stroke: #326A9E;
+    fill: #fff;
+}
+
+g.goal16 g.partial text {
+    fill: #326A9E;
+}
+
+g.goal16 g.full rect {
+    stroke: #fff;
+    fill: #326A9E;
+}
+
+g.goal16 g.full text {
+    fill: #fff;
+}
+
+/* Goal 17 colors */
+img.goal17 {
+    background-image: url(../img/17_sprite.svg);
+}
+
+img.goal17:hover,
+p.goal17 {
+    color: #24496A;
+    border-color: #24496A;
+    
+}
+
+p.goal17.selected {
+    background-color: #24496A;
+    color: white;
+}
+
+p.goal17:hover {
+    background-color: #24496A;
+    
+}
+
+g.goal17 g.partial rect {
+    stroke: #24496A;
+    fill: #fff;
+}
+
+g.goal17 g.partial text {
+    fill: #24496A;
+}
+
+g.goal17 g.full rect {
+    stroke: #fff;
+    fill: #24496A;
+}
+
+g.goal17 g.full text {
+    fill: #fff;
+}
+

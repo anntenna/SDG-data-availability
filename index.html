@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="0" />
+        <title>SDG Indicators - Data availability by Country/Region</title>
+        
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+
+        <script type="text/javascript" src="js/jquery-3.1.1.slim.min.js"></script>
+
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+        <script type="text/javascript" src="js/regionScript.js"></script>
+        <style>
+          .tab-pane,
+          iframe {
+            width: 100%;
+            height: 800px;
+            position:relative;
+          }
+        </style>
+<script type="text/javascipt">
+        $('#myTabs').bind('show', function(e) {  
+    paneID = $(e.target).attr('href');
+    src = $(paneID).attr('data-src');
+    // if the iframe hasn't already been loaded once
+    if($(paneID+" iframe").attr("src")=="")
+    {
+        $(paneID+" iframe").attr("src",src);
+    }
+});
+
+</script>
+
+    </head>
+    <body>
+
+        <div class="container">
+          <div class="row">
+            <h2>SDG Indicators - Data Availability</h2>
+          </div>
+    <div class="row">
+        <div class="span12">
+            <ul class="nav nav-tabs" id="myTabs">
+              <li class="active"><a href="#home" data-toggle="tab">View by Indicator</a></li>
+              <li><a href="#dpa" data-toggle="tab">View by Region</a></li>
+            </ul>
+            
+            <div class="tab-content">
+              <div class="tab-pane active" id="home">
+                  <iframe src="indicator.html" frameBorder="0"></iframe>            
+                </div>
+              <div class="tab-pane" id="dpa" data-src="http://www.drugpolicy.org/">
+                  <iframe src="region.html" frameBorder="0"></iframe>
+                </div>
+              
+            </div>
+        </div>
+    </div>
+</div>
+        
+    </body>
+
+</html>
+

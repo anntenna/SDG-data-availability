@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="0" />
+        <title>SDG Indicators - Data availability by Country/Region</title>
+        
+
+        <script type="text/javascript" src="js/d3.v3.js"></script>
+        <script type="text/javascript" src="js/crossfilter.min.js"></script>
+        <script type="text/javascript" src="js/queue.v1.min.js"></script>
+        
+        <script src="https://use.fontawesome.com/91ce0a4afd.js"></script>
+        
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+
+        <script type="text/javascript" src="js/jquery-3.1.1.slim.min.js"></script>
+
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+        <script type="text/javascript" src="js/regionScript.js"></script>
+
+        <link rel="stylesheet" href="css/regionStyles.css">
+        <link rel="stylesheet" href="css/goalStyles.css">
+        <link rel="stylesheet" href="css/titatoggle-dist-min.css">
+
+
+    </head>
+    <body>
+
+        
+        <div class="container">
+            <div class="row" style="margin-top: 20px">
+                <div class="col-xs-12 col-md-5">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Select a region:
+                    </div>
+                    <div id="svgDiv" class="panel-body">
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-7">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Select a country:
+                    </div>
+                    <div id="countryListDiv" class="panel-body">
+                    </div>
+                </div>
+            </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-xs-2"><p class="text-muted small">Selected Region/Country: <p></div><div class="col-xs-5"><strong id="selectedRegion" class="text-info"></strong></div>
+                <div class="checkbox-slider--b-flat checkbox-slider-info col-xs-2">
+                    <label>
+                       
+                      <input id="treeToggle" type="checkbox" checked>
+                      <span>Expand All</span>
+                    </label>
+                </div>
+            </div>
+            <div class="row panel panel-default">
+                <div class="panel-body">
+                    <div class="col-md-4 col-xs-6">
+                        <img src="img/legend-full.png"/> &nbsp; <span class="small text-nowrap">At least two data points are available</span>
+                    </div>
+                    <div class="col-md-4 col-xs-6">
+                        <img src="img/legend-partial.png"/> &nbsp; <span class="small text-nowrap"> Only one data point is available </span>
+                    </div>
+                    <div class="col-md-4 col-xs-6">
+                        <img src="img/legend-none.png"/> &nbsp; <span class="small text-nowrap"> No data points are available </span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div id="treeDiv"></div>
+            </div>
+            
+
+        </div>
+
+    </body>
+
+</html>

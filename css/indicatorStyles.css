@@ -1,0 +1,58 @@
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+img.img {
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    margin: 5px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: 200% 100%;
+    cursor: pointer;
+}
+
+img.selected {
+    background-position: -98px 0;
+}
+
+img:not(.selected):hover {
+    border: 2px solid;
+}
+
+div.targets {
+    padding-top: 20px;
+}
+
+p.targets {
+    cursor: pointer;
+    padding: 2px;
+    fill-opacity: 0;
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    line-height: 20px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+p.targets:hover {
+    overflow: visible;
+    white-space: normal;
+    width: auto;
+    color: white;
+    opacity: 0.8;
+};
+
+
+text {  
+    pointer-events: none;
+}
+
+
